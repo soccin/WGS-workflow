@@ -1,0 +1,14 @@
+43299885a8e9bc6547f534633b912373  bundle.sh
+9dc3c62bbb14729ff7f3e95041303167  CMD.MkDbSNP_30k
+b3c5bda62e84cd26c82449d8fb99aecd  CMD.ScatterN
+0a0d109beebf92497f05339c11d2955e  dbSNP_SubSet.vcf0
+3b36286ffeee6b7a62ae03f6ceba624b  excludeN_100.interval_list
+ea58f3385022a5cc75c5f1ba565a2d40  GENOME_INFO.txt
+d5eae3ea98c0b800d4734c8cc7f3c269  genome_main.bed
+a8678e2fdda24b39e169eb813e2cd10d  genome_main.interval_list
+1c6a4b2479a29b90f2063568ea070100  getSNPSubSetForPileup.R
+786e1af58fd1f97386c6d0aa7ae9772e  HEADER
+2a3228aa751aa29154b76dbd4c81b343  makeScatterIntervals.R
+83d4405bc51349648cb09dc1966899c9  Sscrofa11.1__dbSNP__30k.vcf
+21630c0d080f4c58ef56e15ed542ee23  Sscrofa11.1__dbSNP__30k.vcf.idx
+bc329c5ccd6757562fdd214e1e746a9c  Sscrofa11.1_excludeN_100.interval_list

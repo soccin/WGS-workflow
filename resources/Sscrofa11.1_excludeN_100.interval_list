@@ -1,0 +1,896 @@
+@HD	VN:1.6	SO:coordinate
+@SQ	SN:1	LN:274330532	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fba192de3d86d708aefd8a3bc10eb878
+@SQ	SN:2	LN:151935994	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8823e3a6826a9c195459ac802758f95c
+@SQ	SN:3	LN:132848913	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8b94a389bf35219caa1f2939c885b016
+@SQ	SN:4	LN:130910915	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:87dbc5d5eb7071ebf920c35134fbcbf3
+@SQ	SN:5	LN:104526007	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:46a60db37ef06d3ad1126c4ad2f715fa
+@SQ	SN:6	LN:170843587	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:479b6013de9bbe1ab42636158ed7839c
+@SQ	SN:7	LN:121844099	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b47b83a3b095cf7e4d21d355711ef1e2
+@SQ	SN:8	LN:138966237	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7654846675b10b4a0d28432ded7974a4
+@SQ	SN:9	LN:139512083	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:200cea4e2e2e121d194c0e847cbbd69f
+@SQ	SN:10	LN:69359453	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4509a8b734a910706e7f05cd4fb7b47a
+@SQ	SN:11	LN:79169978	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:77babb53823fa2680ce0ee6b2f1388b7
+@SQ	SN:12	LN:61602749	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:040a18ab3cdb44465035749d9f27309a
+@SQ	SN:13	LN:208334590	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:948b72b7071dfa7312c0473f1d542851
+@SQ	SN:14	LN:141755446	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f6a2dcbc32b6aa6931f475e1cbd94e7a
+@SQ	SN:15	LN:140412725	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4bec3146bec5df92eaf001ad247e2da2
+@SQ	SN:16	LN:79944280	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:89653668bc009232c43bf43e97fc2313
+@SQ	SN:17	LN:63494081	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:14ced6902c5918e1ca4da4c351aff5d5
+@SQ	SN:18	LN:55982971	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6df1b7914c9f13a40539b8b568b09f6a
+@SQ	SN:X	LN:125939595	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:598856237f6541c65b77e88a609012e9
+@SQ	SN:Y	LN:43547828	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0f2caafb079fb1c4386a81de1f3e0c27
+@SQ	SN:AEMK02000452.1	LN:3843259	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:56adbc48f3bf649047af34a0752cfe66
+@SQ	SN:AEMK02000698.1	LN:2641821	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4a8656d747ca457562193d412fc5d9e1
+@SQ	SN:AEMK02000361.1	LN:2125600	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e6375341beccd1e40d3d4c8199f650d6
+@SQ	SN:AEMK02000598.1	LN:2117578	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d74da6a665623c3da3087d4a29c309da
+@SQ	SN:AEMK02000682.1	LN:2088057	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c5ff3e968e96c916a45261e477c6353a
+@SQ	SN:AEMK02000449.1	LN:1437513	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1e787e57a6e26303793015f0e2bfad3f
+@SQ	SN:AEMK02000677.1	LN:1284139	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a7863248df2763d1a65f5d854a80afdf
+@SQ	SN:AEMK02000408.1	LN:1187208	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9bffba0c4ad25dccbe5113edab8c5135
+@SQ	SN:AEMK02000569.1	LN:1159966	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d353aeb21491b28654c8dbb47c26e86e
+@SQ	SN:AEMK02000393.1	LN:914028	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6d027f172fd3ed5af0001ef3e4b4a31a
+@SQ	SN:AEMK02000510.1	LN:899810	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d043f2d330005834d285e9551582da2c
+@SQ	SN:AEMK02000328.1	LN:734522	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f0d99310a9a65b99606d982a3ee9a204
+@SQ	SN:AEMK02000465.1	LN:725547	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6a43dd192394ef2c655a0cfa57257a65
+@SQ	SN:AEMK02000133.1	LN:663541	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d11d32b62ad9ab6bd936473f7bfaba10
+@SQ	SN:AEMK02000661.1	LN:658525	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cd2fd0e7d78d4454e99156148b4c3b6a
+@SQ	SN:AEMK02000261.1	LN:631996	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:523b1c2bd7d4893760f0e800674079c8
+@SQ	SN:FPKY02000002.1	LN:492890	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0ca3913f110ad436434be1b1425bcdaf
+@SQ	SN:AEMK02000324.1	LN:463454	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5f0b49098386ff04acc926347bddc6a0
+@SQ	SN:AEMK02000258.1	LN:463424	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:dc6877360340c0ee3a1b526dd081ec3a
+@SQ	SN:AEMK02000271.1	LN:457951	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ff8963b0499eb214ebf17bf57a8ff716
+@SQ	SN:AEMK02000537.1	LN:452860	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a7788e9fc36d66e6f6ef8a2d5e9ee4f0
+@SQ	SN:AEMK02000522.1	LN:450457	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:dff7beb1c0494503e39226b722969b0a
+@SQ	SN:AEMK02000639.1	LN:441855	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:60adda559e71afd6622ad2e3623a43b0
+@SQ	SN:FPKY02000001.1	LN:438769	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fbedbb73fb0cfe6736057b2ca669a4ef
+@SQ	SN:AEMK02000694.1	LN:437940	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7b6a732181dffa26a886321364f7cea8
+@SQ	SN:AEMK02000289.1	LN:437422	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e5333dcbdc4f1e64e4d6311434498de8
+@SQ	SN:AEMK02000451.1	LN:414619	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9c0f1593dae8e392c47447907e3e1ee9
+@SQ	SN:AEMK02000478.1	LN:413771	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7ae299e5889a3505db6e7011e01675a5
+@SQ	SN:AEMK02000496.1	LN:404434	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:13c002241871c0cc83bfd8ef838636bf
+@SQ	SN:AEMK02000390.1	LN:383558	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6340b817a8b1180a29e306a27a52e4f4
+@SQ	SN:AEMK02000175.1	LN:368575	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:73ee6bac6fea991965b45b1dfd597570
+@SQ	SN:AEMK02000602.1	LN:362670	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ac887ea52546da3b11cfd77d5cdb05f3
+@SQ	SN:AEMK02000370.1	LN:353404	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:91685f679399d66e2ab1606176effd86
+@SQ	SN:AEMK02000213.1	LN:352148	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c7a6a766fa6c3e668e5d5b3b2a5b722f
+@SQ	SN:AEMK02000630.1	LN:338089	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5202b5c7cd332b74b6531b10f6604618
+@SQ	SN:AEMK02000264.1	LN:333895	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0c3658ffd228f588c5477d60d52eccb1
+@SQ	SN:AEMK02000600.1	LN:332772	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:faa4f14400ca87fa8a272ac6a73f5e3e
+@SQ	SN:AEMK02000410.1	LN:328665	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:97e2f14218d78bff96456c91bdccd3e0
+@SQ	SN:AEMK02000525.1	LN:305256	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bcf3b2036f48903d9debd395989cf031
+@SQ	SN:AEMK02000159.1	LN:304882	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0e84f9c8fa5b95d6004d082104a865e8
+@SQ	SN:AEMK02000423.1	LN:303938	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:dadede18b4678572b96ddf76d0ecf884
+@SQ	SN:AEMK02000566.1	LN:292505	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:47ae24c7bc6f8e4d45714dca8269aaca
+@SQ	SN:AEMK02000278.1	LN:250081	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:003a67c41a54afb881002bbf3a6f6f87
+@SQ	SN:AEMK02000577.1	LN:248197	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bbb57ced9fe4e0403f9620de5baa869d
+@SQ	SN:AEMK02000292.1	LN:241003	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:197d1027eeceaccb73e6fc93b152a4f7
+@SQ	SN:AEMK02000697.1	LN:238141	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8e43b4f204bca90a76e2618efede32b4
+@SQ	SN:AEMK02000532.1	LN:234155	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3296c6c5171a6a6cb4037d7fbe182b80
+@SQ	SN:AEMK02000189.1	LN:231906	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4e348b0d812e1052f9d4e32c2b40e9db
+@SQ	SN:AEMK02000400.1	LN:230773	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a3afbc35f7cf2c78c7968e992a757bd6
+@SQ	SN:AEMK02000253.1	LN:229168	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d46bf0eb65cd1c05c362618291c89b1c
+@SQ	SN:AEMK02000649.1	LN:218479	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:db27ce0e86ccd3f38d6bd88a88a1c016
+@SQ	SN:AEMK02000256.1	LN:196394	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9367b1eaaa4922fb864a4b6ab3de8271
+@SQ	SN:AEMK02000234.1	LN:195359	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1740d4b8ef977463bf77ac56386d16ca
+@SQ	SN:AEMK02000368.1	LN:192446	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a4c8a5275c995f15334153d14356e594
+@SQ	SN:AEMK02000640.1	LN:191720	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ca10e5865eea81bfd56073fc5d260daa
+@SQ	SN:AEMK02000703.1	LN:186897	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fd115ab721a472c6bd0d5e98acc2ed38
+@SQ	SN:AEMK02000341.1	LN:185816	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:08758b209ed3191be986c4506053eca1
+@SQ	SN:AEMK02000495.1	LN:185666	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a178737681b110a9e9254e2fe38d66cd
+@SQ	SN:AEMK02000497.1	LN:182797	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:aa6016f5671522fc3fa40e21b0a025de
+@SQ	SN:AEMK02000310.1	LN:177715	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5d766b1b37bf5129cc28d77a3732fc90
+@SQ	SN:AEMK02000297.1	LN:177295	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:dd1c329f84d322868abb85541d47f638
+@SQ	SN:AEMK02000171.1	LN:176234	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c43f689d398371b00e2cb0723fb479b0
+@SQ	SN:AEMK02000517.1	LN:175079	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:840debccdb708d855ae67362015f15d3
+@SQ	SN:AEMK02000286.1	LN:172180	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:82383f75c333ac88dc350acba9da23bf
+@SQ	SN:AEMK02000425.1	LN:170852	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f2cb06629e375150a281c99db40eda55
+@SQ	SN:AEMK02000591.1	LN:169331	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:aa4ab0b935f369d6e19e9f45af2e9678
+@SQ	SN:AEMK02000485.1	LN:168947	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:dd71de38dfeef9ba2dd444c4c8ee0ac3
+@SQ	SN:FPKY02000005.1	LN:167521	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ff793b07c8f07b45c1f368c93f808b1a
+@SQ	SN:AEMK02000658.1	LN:166067	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0d4a4b12c5c49efa9dc7e30c739a1481
+@SQ	SN:FPKY02000004.1	LN:162579	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8ce8d2c9258c8b7f339417e2c56eeafb
+@SQ	SN:AEMK02000435.1	LN:162163	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9405a46f54ed81bc2e023be811fdad71
+@SQ	SN:AEMK02000215.1	LN:161540	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:633827a2ee9a19fe52b7f9cca6004f63
+@SQ	SN:AEMK02000589.1	LN:159309	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f9206088282a7f08235a369dd0012917
+@SQ	SN:AEMK02000204.1	LN:158593	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:36f2b4c87a20c48a9209e789fd85d1da
+@SQ	SN:AEMK02000612.1	LN:156208	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:39234ebd4be87c82a8d374399a8de5a6
+@SQ	SN:AEMK02000493.1	LN:154740	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6348f929c045a88e39e587826608d184
+@SQ	SN:AEMK02000579.1	LN:153825	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b4e6bfa9ef816bde0ed9ce34940ef740
+@SQ	SN:AEMK02000476.1	LN:153176	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7c74d4f10f40dfc6457f970a34e90679
+@SQ	SN:AEMK02000301.1	LN:153020	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:33b571f98ef11111500b19e98967aefa
+@SQ	SN:AEMK02000394.1	LN:152378	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d335fcbfe093c935abf0f07ab2014a87
+@SQ	SN:AEMK02000434.1	LN:151582	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cae0c3e6a053822244305801807dece0
+@SQ	SN:AEMK02000477.1	LN:151529	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3da04be2eb98426f1ba1682f4ee4e11f
+@SQ	SN:AEMK02000156.1	LN:151356	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8d62293c2cc3472d2e85f5e99fdbfe9e
+@SQ	SN:AEMK02000526.1	LN:151330	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7b0f20c228d766c21e0da85ec3a39587
+@SQ	SN:AEMK02000468.1	LN:149177	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e9d11b6a51328992e421e9914bf0fec9
+@SQ	SN:AEMK02000336.1	LN:148079	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:105d18e27590e84a2369a5676ada59da
+@SQ	SN:AEMK02000660.1	LN:147927	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:02076eb1d85dd742b429054ad25ee3af
+@SQ	SN:AEMK02000240.1	LN:145869	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:43bc501a512ce7564953d5f7b73d4e32
+@SQ	SN:AEMK02000320.1	LN:145609	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:238a2498b366678e497a8ea5147f26c8
+@SQ	SN:AEMK02000162.1	LN:141821	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:32d88e16536f8eff87bef9bf57a3ce81
+@SQ	SN:AEMK02000444.1	LN:136983	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9516f7b2aa09ec3a0910391faf450ff4
+@SQ	SN:AEMK02000333.1	LN:136362	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:031a0ada6eda656b04cdca9ab0ec4ac7
+@SQ	SN:AEMK02000680.1	LN:134991	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e39f9a1e8951a44bb4dd73898f3bd6e0
+@SQ	SN:AEMK02000248.1	LN:133611	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c6d32228e61650740e0e3aa4e21a8f89
+@SQ	SN:AEMK02000254.1	LN:131902	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7667a17cc597a0333f180dece62259be
+@SQ	SN:AEMK02000173.1	LN:131066	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:44393b396f11130dd88b78236d07e1ea
+@SQ	SN:AEMK02000453.1	LN:130110	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:469374330b26e73b96bf34623ffe9705
+@SQ	SN:AEMK02000617.1	LN:128219	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:86435ca8ad9f656b447d7eb1c4677a1a
+@SQ	SN:AEMK02000431.1	LN:127758	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6cb3fcea3641c282cd0cc869f8563b82
+@SQ	SN:AEMK02000576.1	LN:127286	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9e200748124fba2d0f6164bf98b03cb7
+@SQ	SN:AEMK02000620.1	LN:126623	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4c31b5602bbea7d43be4b46cc9e8e932
+@SQ	SN:AEMK02000378.1	LN:126168	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:deb609f073342038d3b977bcc78608b5
+@SQ	SN:AEMK02000276.1	LN:125997	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ccb939927a0a6e466bac926fbb3d3227
+@SQ	SN:AEMK02000137.1	LN:125348	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b8d65d27ed3bcde1150145702b8ee925
+@SQ	SN:AEMK02000514.1	LN:122898	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ca6600818d9bcbdb325962271d0158a8
+@SQ	SN:AEMK02000679.1	LN:122690	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:63f16b8589ddc14f0e078d9b9440e52d
+@SQ	SN:AEMK02000277.1	LN:122329	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a6f411f81f53312eea3dbeeb6df48aaf
+@SQ	SN:AEMK02000238.1	LN:121275	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:57f6a95a356bf9de9f1fb4e6213ee3d0
+@SQ	SN:AEMK02000318.1	LN:121216	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:05fff496384e89b10a6496a3b9739493
+@SQ	SN:AEMK02000588.1	LN:116223	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d10e89951a9482b4d5a093c654b65697
+@SQ	SN:AEMK02000399.1	LN:114674	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e8a975d2c3ada6e6f24bfdf6a786dc8b
+@SQ	SN:AEMK02000200.1	LN:113982	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f1ef9e8c6ed8c9e2fc6fa9d48637ca2e
+@SQ	SN:AEMK02000182.1	LN:111963	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0e286e667f9dd5ee921caf60a41316e6
+@SQ	SN:AEMK02000383.1	LN:111191	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d18d05ca999e0800181eba5cbb9469e1
+@SQ	SN:AEMK02000558.1	LN:111136	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d6486b6bbfa36e61df261869a894818f
+@SQ	SN:AEMK02000692.1	LN:110875	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7b951e547dc1fcc40333d8ef81aa9888
+@SQ	SN:AEMK02000295.1	LN:107759	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cf3f455e7afc440452e53b98ad5a3c59
+@SQ	SN:AEMK02000678.1	LN:107223	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:636351f526aa814fbc7d8063687f150e
+@SQ	SN:AEMK02000584.1	LN:106523	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6a811eff89c8b699595423be3f8589e3
+@SQ	SN:AEMK02000131.1	LN:105554	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:89e9fdbc07dd6e8717b3b48a978e57d1
+@SQ	SN:AEMK02000186.1	LN:105175	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1d7a2931be73bce53b79f23e485ebfd5
+@SQ	SN:AEMK02000364.1	LN:104663	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4cdc3f6dd9e7dfb9ba3afa29c493bf49
+@SQ	SN:AEMK02000696.1	LN:101917	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:52a62ba7205c496d7c63a759c194f5cf
+@SQ	SN:AEMK02000438.1	LN:100920	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:47650701b342dcfbb35139d069671dbf
+@SQ	SN:AEMK02000534.1	LN:100697	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:48a73e033adc99522781819e7220b78e
+@SQ	SN:AEMK02000299.1	LN:100207	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7db5662a8f1e3e0614a193a9a8531de4
+@SQ	SN:AEMK02000621.1	LN:99288	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7fa070993edeff2bcf41b80c896ffb06
+@SQ	SN:AEMK02000440.1	LN:99018	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ac91a8617410c75b2b252c0a9a4ace3d
+@SQ	SN:AEMK02000528.1	LN:98791	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5647d8d2d393ea498fccfdde61b9fcf1
+@SQ	SN:AEMK02000494.1	LN:98741	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d8709dfafd62b007ff1eae1a95a9902a
+@SQ	SN:AEMK02000623.1	LN:98239	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f70c81c41c135ce0c02111b2e3c8d2eb
+@SQ	SN:AEMK02000585.1	LN:97889	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:46f05955ffc8fc8f6f2ced20afc7fe2d
+@SQ	SN:AEMK02000369.1	LN:97098	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cdfa2e1803bcde5203499d90188c1a5a
+@SQ	SN:AEMK02000245.1	LN:96200	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:114f88399726faa8c29159353d3f72ce
+@SQ	SN:AEMK02000554.1	LN:95954	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a195702498f9580a1d8671d27825be90
+@SQ	SN:AEMK02000541.1	LN:95750	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4442c05ae92d6f3b188b9027191c084c
+@SQ	SN:AEMK02000665.1	LN:95440	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:12a505a82d82590b2d11a7c146eea028
+@SQ	SN:AEMK02000593.1	LN:95045	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:854324631c8398bffe3102683950f40f
+@SQ	SN:AEMK02000574.1	LN:94815	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:05e14fa09ca335d9688975184f8f2aa3
+@SQ	SN:AEMK02000632.1	LN:93881	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fb2b92e614eb8f3adc8ea825e6a1f14c
+@SQ	SN:AEMK02000503.1	LN:92946	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c9d93048c4d26dafa9df5149e8ef5d9f
+@SQ	SN:AEMK02000637.1	LN:92764	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0f31594ce7c78c561851e41129f06294
+@SQ	SN:AEMK02000223.1	LN:92180	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f020218e4fa132b2126e5d02988208b2
+@SQ	SN:AEMK02000460.1	LN:92164	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f5107dc85d16483e61a6fb8cf6b451c6
+@SQ	SN:AEMK02000672.1	LN:92067	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:58e0c46e2416f5323db321da1f2c8047
+@SQ	SN:AEMK02000152.1	LN:91927	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ed11e2c92c7032b906e2c1b0cc93af18
+@SQ	SN:AEMK02000482.1	LN:91570	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7269405d36c2d1fd32eac660a11fbfea
+@SQ	SN:AEMK02000472.1	LN:91429	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b5252420260a3af210dfb9e6bb9ff2b9
+@SQ	SN:AEMK02000208.1	LN:91308	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:af2acc5307157f69b3d9564379599953
+@SQ	SN:AEMK02000346.1	LN:89764	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ce6338b3b9d657fb70c08dc612d964c3
+@SQ	SN:AEMK02000407.1	LN:89753	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e9ffaaffac56495cb2d5c31f437ccd4e
+@SQ	SN:AEMK02000164.1	LN:89749	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:af437f2521993df2738a5c3120a7ceb2
+@SQ	SN:AEMK02000153.1	LN:87954	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:88804ce15f80a5cfe5bc8e6fa001351e
+@SQ	SN:AEMK02000456.1	LN:87638	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:39b114630d8a3b982f093bc3edfeaa38
+@SQ	SN:AEMK02000170.1	LN:87541	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:78aabfd73ab8b2d1c9174d243392d005
+@SQ	SN:AEMK02000191.1	LN:86406	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6e45880303c6a307d9fc0cce794de9c3
+@SQ	SN:AEMK02000662.1	LN:85322	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fbfb775eef7d4825177b325aada248ff
+@SQ	SN:AEMK02000572.1	LN:85184	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:84453f7671df63d05e6fdfce9c7b24d9
+@SQ	SN:AEMK02000210.1	LN:84782	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0c285ecb9f0728cdf9417a6282f8c705
+@SQ	SN:AEMK02000437.1	LN:83739	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:47f6857fb1db6d79b7f2f2e16c7dd191
+@SQ	SN:AEMK02000291.1	LN:83331	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c6753c0a5d07db7876706f1473e4e0a8
+@SQ	SN:AEMK02000563.1	LN:83258	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:35860bf3c07e17ebdacc5d63ca5c64b0
+@SQ	SN:AEMK02000644.1	LN:83016	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:eabf9e5d3440ffd2d93536360f0073d8
+@SQ	SN:AEMK02000507.1	LN:82813	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8cef0c1ccd64fa1e55cea33872d5da14
+@SQ	SN:AEMK02000415.1	LN:81645	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:87009da974d83da7daad7a860912f221
+@SQ	SN:FPKY02000007.1	LN:81402	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:374892479a14c153170aecb34f0e4058
+@SQ	SN:AEMK02000250.1	LN:80194	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9d1e9b4d5107c90b1cd98a692b7c6c78
+@SQ	SN:AEMK02000513.1	LN:80124	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a346d70624d7498b74e9a4789578065f
+@SQ	SN:AEMK02000515.1	LN:79602	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0afa3b062709fd3c329b5edb1557cef2
+@SQ	SN:AEMK02000422.1	LN:78723	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:33c5cdbbdf48e98c2c5f3e9a0d17580e
+@SQ	SN:AEMK02000474.1	LN:78397	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fef89c045dc0ffa00d301108e2ce2fdb
+@SQ	SN:AEMK02000168.1	LN:77398	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1cbeff275d66f9016b8f8628c4b45ff2
+@SQ	SN:AEMK02000685.1	LN:77218	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3cfda6e8ff8a9784dce26fea3c9e6fc1
+@SQ	SN:AEMK02000683.1	LN:75957	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:93ade08a3c4b9c6dd7269f30bdd77432
+@SQ	SN:AEMK02000512.1	LN:75122	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d6765ba3bf47efdce72873f728269dab
+@SQ	SN:AEMK02000389.1	LN:75082	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:60c2a93813053f5c638a8ad5c3d9472e
+@SQ	SN:AEMK02000568.1	LN:74675	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:de82901d17774146ca08b0a0b5549887
+@SQ	SN:AEMK02000559.1	LN:74153	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bfc81eb1d641d96064a6bd12ea967885
+@SQ	SN:AEMK02000366.1	LN:74125	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8095e85f072178448d7aa5066e810d1e
+@SQ	SN:AEMK02000656.1	LN:73391	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6e4f1c982adbbd339d8026622194ff2a
+@SQ	SN:AEMK02000235.1	LN:73291	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2d71af4b1684b2d82fc658473ddbf779
+@SQ	SN:FPKY02000006.1	LN:73062	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c7591f17f8b55ccd70878d4561f4739d
+@SQ	SN:AEMK02000227.1	LN:72950	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b330ac78a9d5456b1c3f7282d9edef06
+@SQ	SN:AEMK02000287.1	LN:72946	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bf5d009ec6d1beb97a2f21bad0c26e67
+@SQ	SN:AEMK02000427.1	LN:72884	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ee23eef8ce013f51fad92491528d5e51
+@SQ	SN:AEMK02000251.1	LN:72613	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:70faf49d3e565ba31a5fdc741dc8b1ca
+@SQ	SN:AEMK02000616.1	LN:72435	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ac4ffe1a8d7dd3d80e7512a348e66fdc
+@SQ	SN:AEMK02000699.1	LN:72425	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f554fb30fc09eeed0f081c06e0fd6508
+@SQ	SN:AEMK02000704.1	LN:72037	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cd896c01efb71c6e40183b0c6ca750b0
+@SQ	SN:AEMK02000188.1	LN:72014	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:40f588cd4c99c76726b21c81f49ee271
+@SQ	SN:AEMK02000506.1	LN:71707	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:06a23701be7048456bfc72fdb657bef9
+@SQ	SN:AEMK02000655.1	LN:71706	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3500c95c78579db4876228e088b7abed
+@SQ	SN:AEMK02000529.1	LN:71279	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d33b8ad8568455f858183a2a0a4d7e69
+@SQ	SN:AEMK02000414.1	LN:71268	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1bba41670e6f62ec9cd39ae7f0a2592a
+@SQ	SN:AEMK02000232.1	LN:71095	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9a257000aace755b32eb3bf7f172f769
+@SQ	SN:AEMK02000331.1	LN:70479	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:10eb13ce1d129d82aaed9cd2ded9876b
+@SQ	SN:AEMK02000646.1	LN:69502	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0be79503bf0d88a144f3dd3a00386166
+@SQ	SN:AEMK02000172.1	LN:68315	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9444cc0ae541d6c670d5b4121fea8c4d
+@SQ	SN:AEMK02000146.1	LN:67873	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:028931f06ac5782711703891a5f236c9
+@SQ	SN:AEMK02000207.1	LN:67854	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:39e37161eebcd3dafa469771f056b4d5
+@SQ	SN:AEMK02000332.1	LN:67596	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2fbcc7fe95a628b1c185b4d7a33841de
+@SQ	SN:AEMK02000421.1	LN:67144	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1a57badf1703d93837df6acf037975cf
+@SQ	SN:AEMK02000521.1	LN:66883	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:22c087702e37c070434641ed74f5eadd
+@SQ	SN:AEMK02000221.1	LN:66807	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f6b400563aca42e98ef0690e32c564a3
+@SQ	SN:AEMK02000225.1	LN:66683	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b4a239237fc0d79d2c4ad6f360e36fca
+@SQ	SN:AEMK02000391.1	LN:66671	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:78bc85eb8d4b9ae2a111d188e27b60a5
+@SQ	SN:AEMK02000163.1	LN:66393	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:81853252eaead4f735ee8cbcf1548f5a
+@SQ	SN:AEMK02000300.1	LN:65977	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d19246e2a1ece7f1e36d6a2503570d0c
+@SQ	SN:AEMK02000628.1	LN:65930	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:62f8f1bf709a81f954c7777c07f6e2e8
+@SQ	SN:AEMK02000668.1	LN:65664	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2b04197a9d80e9f367a50aae390abbc2
+@SQ	SN:AEMK02000380.1	LN:65658	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:74f7e0c347cebd6eb66b08786a1a56ab
+@SQ	SN:AEMK02000177.1	LN:65518	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:af4a2d3ecd8eeec04fcb094c2bb1f664
+@SQ	SN:AEMK02000259.1	LN:65455	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e1eacd6a49986f0a52df5a716bc64f51
+@SQ	SN:AEMK02000334.1	LN:65042	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2400fe4fd9e5768b6ebd83780c4329c1
+@SQ	SN:AEMK02000203.1	LN:64878	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:252c64f1f3402c400fdb5d9f3458c6b5
+@SQ	SN:AEMK02000501.1	LN:64639	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:73cbd09513a50ff049f7c6110a7796ed
+@SQ	SN:AEMK02000641.1	LN:64268	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5e0d6b0f763fca423ca16f71cdad413d
+@SQ	SN:AEMK02000344.1	LN:64041	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b86883aaa07976a14de0685cf270dae9
+@SQ	SN:AEMK02000398.1	LN:63919	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1922eb050da2e32dd1d8a88ec99249d5
+@SQ	SN:AEMK02000263.1	LN:63916	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1b41289db5b97da223aa5d1b0f3a0ab6
+@SQ	SN:AEMK02000260.1	LN:63393	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ce33e258cebbcd5b34240093f8b2d9db
+@SQ	SN:AEMK02000273.1	LN:63293	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:98cb84168c393d59a9e772158a1c0be3
+@SQ	SN:AEMK02000375.1	LN:63078	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bd8fdd5c2bd5e0949e724b85604990e4
+@SQ	SN:FPKY02000008.1	LN:62281	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e5bb65b05d59636c2cdb40fadbdd3fe2
+@SQ	SN:AEMK02000311.1	LN:61746	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:afe2dc7d97726810161f9da8dfffb189
+@SQ	SN:AEMK02000327.1	LN:61624	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1e480b4f86a3c26ad1a679e62a5aa65f
+@SQ	SN:AEMK02000412.1	LN:61586	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e172f27216caa52d60fc0df93cef8b0b
+@SQ	SN:AEMK02000305.1	LN:61450	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4413324ff5d50d0af16ae0107cf12de1
+@SQ	SN:AEMK02000229.1	LN:61233	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:94b0c6066ac8beeba7312b93a77d09d8
+@SQ	SN:AEMK02000626.1	LN:61233	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e14731400ef6d7de593ff1313bac2c84
+@SQ	SN:AEMK02000636.1	LN:61061	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1168282ae0194fb65961874a3861c611
+@SQ	SN:AEMK02000676.1	LN:60710	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6b1ac2074c0b289498ee3bd649c32d81
+@SQ	SN:AEMK02000247.1	LN:60458	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:247b5a0f75bab2a13673d5a7604a1617
+@SQ	SN:AEMK02000135.1	LN:60359	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:977af53a3b4a1036e911bb8326f15668
+@SQ	SN:AEMK02000382.1	LN:60335	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:73d11465df98831dcca3aa8f4c9b3ef4
+@SQ	SN:AEMK02000561.1	LN:59899	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1f4a5a00d24d56257663803b19ef303a
+@SQ	SN:AEMK02000659.1	LN:59742	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:997ec6c06a0f99ecfec5f374a9bd1dce
+@SQ	SN:AEMK02000445.1	LN:59679	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2bf6e23be96922ccdec822b7dea002cf
+@SQ	SN:AEMK02000571.1	LN:59490	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:330da602359b17ff78429a707d96bbe0
+@SQ	SN:AEMK02000627.1	LN:59096	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a98b0294ffae24dd01aa2e63b7ac0b91
+@SQ	SN:AEMK02000595.1	LN:59052	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2b1aab02dcda25da9f5ba52b56c17c2f
+@SQ	SN:AEMK02000280.1	LN:58992	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d5dd40186aa0fc25fc008fb22d46cb59
+@SQ	SN:AEMK02000592.1	LN:58548	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3d33c6425e7b20ebd903fbf3bf3cfc54
+@SQ	SN:AEMK02000169.1	LN:58416	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:38f8de1b1bbf8778cc1cff33fe6570e0
+@SQ	SN:AEMK02000339.1	LN:58201	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c8cabf16c8923b1bb9ad8e1a96e41f6c
+@SQ	SN:AEMK02000275.1	LN:58047	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0b9aabdbe2dbaaa886378531b61d954b
+@SQ	SN:AEMK02000631.1	LN:57870	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:896d905baa1672d7ceb49dfd72fa3b4e
+@SQ	SN:AEMK02000363.1	LN:57548	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a1603553a68e14c893839a8a98223247
+@SQ	SN:AEMK02000509.1	LN:57178	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a143db917fa379e5810d602c023f7ecb
+@SQ	SN:AEMK02000647.1	LN:56960	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d5942cf2f9b043690159c27078c4ada2
+@SQ	SN:AEMK02000179.1	LN:56626	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:48b0139c857efaccd159d0e50a3324fe
+@SQ	SN:FPKY02000003.1	LN:56573	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5f31b8eb11a90fcfa77f381ace4ea332
+@SQ	SN:AEMK02000439.1	LN:56510	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e4d28bed2f62221102cb61773d10e851
+@SQ	SN:AEMK02000403.1	LN:56236	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:97c8f5080943580941676cef9f29f9fe
+@SQ	SN:AEMK02000183.1	LN:55954	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e0a961daa4e4fc3eda5222d7a7e10903
+@SQ	SN:AEMK02000542.1	LN:55808	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a84c1fc21288693d80c4c89ba482ab17
+@SQ	SN:AEMK02000304.1	LN:55662	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bda0a9d098b82cbf3f7420d064c0d693
+@SQ	SN:AEMK02000309.1	LN:55519	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3aa578b250268b617df42e012f22f16a
+@SQ	SN:AEMK02000130.1	LN:55490	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:314e060002fd8ca45bc48e7cc1c69dfa
+@SQ	SN:AEMK02000315.1	LN:55444	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6c90dfcdd3bfcdbccd9c8430b42d87aa
+@SQ	SN:AEMK02000282.1	LN:55403	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fadfc61516df2383e766eafbea1c13b4
+@SQ	SN:AEMK02000543.1	LN:55144	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a009f21aef49390d64ab8954f7d6e807
+@SQ	SN:AEMK02000673.1	LN:55089	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c9ad8ce351273d1be9eb0accc52f89ff
+@SQ	SN:AEMK02000611.1	LN:55069	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:897269dd5e60dfb16faf601f88939eae
+@SQ	SN:AEMK02000174.1	LN:54656	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a1294fba39221b14550dfa5553c02c75
+@SQ	SN:AEMK02000176.1	LN:54489	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:953a0047fc14bc392d9d76deaca9a5c1
+@SQ	SN:AEMK02000523.1	LN:54345	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a4a71c2685f1670a26612f337229dff8
+@SQ	SN:AEMK02000142.1	LN:54115	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c2baa270b547f9bb21b4826276049d68
+@SQ	SN:AEMK02000228.1	LN:53671	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:85dc1b291517420233c7909cfb5027a1
+@SQ	SN:AEMK02000606.1	LN:53195	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:558832bc7a79f62310abaac6b7634e40
+@SQ	SN:AEMK02000674.1	LN:52974	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:53b9dc95b7b39c4b05140fd509366d87
+@SQ	SN:AEMK02000443.1	LN:52466	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:42824e9dec1d73cadd8dbcecd1eabe3d
+@SQ	SN:AEMK02000340.1	LN:52374	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1ea1c1049e2884d2b7ed368f7f864894
+@SQ	SN:AEMK02000461.1	LN:52294	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c55045136bcc74f48e625c982cd550f2
+@SQ	SN:AEMK02000518.1	LN:52274	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0f262737b36fd7f1ded88dc62ee93c3a
+@SQ	SN:AEMK02000550.1	LN:52058	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bbd6fabf7b540ad406025d5ae81ecf88
+@SQ	SN:AEMK02000489.1	LN:51932	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e315f8edd3feb6bfa9d6acaf75366e19
+@SQ	SN:AEMK02000274.1	LN:51665	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:99a792e99c9d01949bb6c969bcf85c87
+@SQ	SN:AEMK02000480.1	LN:51625	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ee2b938a7266f7fbecac287cde70181a
+@SQ	SN:AEMK02000313.1	LN:50759	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5b8fdfcf9debf47194870612dd6ac6a2
+@SQ	SN:AEMK02000125.1	LN:50575	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fa3cad6f6b1352d1ad9a2f0ec74c3d7a
+@SQ	SN:AEMK02000385.1	LN:50567	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c11e4a53b1c90e641058b99d868d2403
+@SQ	SN:AEMK02000583.1	LN:50335	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2964a46e5755403a988aa8443dfbc99d
+@SQ	SN:AEMK02000702.1	LN:50243	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1b7ffa7460c12e782519d5a2869eaeac
+@SQ	SN:AEMK02000241.1	LN:50081	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0d8a47ad01695edae164176650275392
+@SQ	SN:AEMK02000181.1	LN:49406	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9aaa61d888cfacae6ff296f84aac107c
+@SQ	SN:AEMK02000197.1	LN:49329	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ea9594b70902d2ad0ede06bad37a40d0
+@SQ	SN:AEMK02000416.1	LN:49126	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9d42b4e255e6a69d346350eca45100bd
+@SQ	SN:AEMK02000471.1	LN:49050	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4e6da4b08412fb91304d8cc3944595df
+@SQ	SN:AEMK02000283.1	LN:48980	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:683d04a7c673ccd480800377c60e02eb
+@SQ	SN:AEMK02000457.1	LN:48413	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a9f254e48b32b36390d41fac660d24ef
+@SQ	SN:AEMK02000426.1	LN:47889	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ab00788baf629713e26fb29cab571877
+@SQ	SN:AEMK02000144.1	LN:47643	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f31e284bab43160a5a38bfd18020c1d8
+@SQ	SN:AEMK02000404.1	LN:47524	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4b0d352cb17c748e2ebd4a987c57c3a4
+@SQ	SN:AEMK02000552.1	LN:47289	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:53eb0e43e19ca0dd4b1855f31b819d99
+@SQ	SN:AEMK02000129.1	LN:47123	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4c86fba1e6a6823b4cb8f6ebf9a9cc05
+@SQ	SN:AEMK02000147.1	LN:47030	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0a8b9743192e431d27306da762b1bdb9
+@SQ	SN:AEMK02000575.1	LN:46903	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bf45944f74e31117a5fcb359975be7a7
+@SQ	SN:AEMK02000138.1	LN:46849	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:903ab37a2f67093250f81ec9a048b0cf
+@SQ	SN:AEMK02000395.1	LN:46845	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:438b943e08944b8f40be494d93a7030a
+@SQ	SN:AEMK02000345.1	LN:46301	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9e17afb055b87347b11ba5f316ead8a8
+@SQ	SN:AEMK02000549.1	LN:46115	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:72a00e5981b690ba07c7728f44ab829e
+@SQ	SN:AEMK02000483.1	LN:46114	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:dcf3da5a09a3a31cc4c17e0457238feb
+@SQ	SN:AEMK02000322.1	LN:46061	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e91a854cea0bae1e3af4a693c5c49170
+@SQ	SN:AEMK02000657.1	LN:46053	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9a9b9dbed8f970d59ed3b94f13cf07e6
+@SQ	SN:AEMK02000255.1	LN:45734	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:35c13309f44c84274fb7468a8fd37549
+@SQ	SN:AEMK02000511.1	LN:45692	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3f21dda0ea30662737960984de54a564
+@SQ	SN:AEMK02000161.1	LN:45522	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5c9b2ddc339458da7db5bfa2f36aab5b
+@SQ	SN:AEMK02000308.1	LN:45474	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0b55fe1ca01ff3da2de237a98fc2b607
+@SQ	SN:AEMK02000540.1	LN:45163	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4530559695458cd917af47705c65ec2a
+@SQ	SN:AEMK02000266.1	LN:44947	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5e66ad3dde62123661ac1ca0ab5c494d
+@SQ	SN:AEMK02000429.1	LN:44863	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:70323c6c7fae635e251836580270db62
+@SQ	SN:AEMK02000596.1	LN:44774	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:11500601ad9449c4634208870e674a31
+@SQ	SN:AEMK02000386.1	LN:44543	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:610d5264ebd4eae1b3eb309c1f4c6f4d
+@SQ	SN:FPKY02000009.1	LN:44425	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c98c89cf32015fec1577872b93268f63
+@SQ	SN:AEMK02000622.1	LN:44010	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:910dd7daa94e91288db1b5b61fb892d0
+@SQ	SN:AEMK02000614.1	LN:43888	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6dcb09a51b64a22cc9723c571cfa2b80
+@SQ	SN:AEMK02000565.1	LN:43773	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d3a84cf08e933bae5d302cf84ec0c690
+@SQ	SN:AEMK02000279.1	LN:43530	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:970d56516b637c558f1564b5567df64f
+@SQ	SN:AEMK02000555.1	LN:43188	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a54b2032cbe108309e6b894db3e1fd7c
+@SQ	SN:AEMK02000367.1	LN:43143	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6c91ce1c83219aed32513015b38fe916
+@SQ	SN:AEMK02000590.1	LN:42628	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c842d222aa94540ebdd2683b0a0da7b7
+@SQ	SN:AEMK02000504.1	LN:42619	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8b9a081135613ef52b6284830dc3e6f5
+@SQ	SN:AEMK02000373.1	LN:42492	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:28f75f96eecd9c031e34b1e9b0ef6bf0
+@SQ	SN:AEMK02000546.1	LN:42190	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ab14c7755da60070796d30c790387cc1
+@SQ	SN:AEMK02000687.1	LN:42170	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0cdfa3df7949a3b016b5a221d18fb6d2
+@SQ	SN:AEMK02000479.1	LN:42029	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f86911a92350c8b67d5e35338a438814
+@SQ	SN:AEMK02000180.1	LN:42006	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a77e69f79501f81784570c1b2cb33cf9
+@SQ	SN:AEMK02000411.1	LN:41893	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:873b087ac72d37bc9815864b8b6857d0
+@SQ	SN:AEMK02000392.1	LN:41701	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ec4ac1ac62c00d518cbc31a14e012511
+@SQ	SN:AEMK02000330.1	LN:41407	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a9ceacf3c4640946bfc45de65648d550
+@SQ	SN:AEMK02000487.1	LN:41262	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6ac3fd37f13d7bfc9bff11e8e3b37842
+@SQ	SN:AEMK02000226.1	LN:40713	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:89bda913bfb5f85202e7a91400389a1b
+@SQ	SN:AEMK02000466.1	LN:40414	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fd3c1ed58be73cc7e9aae7d776b894c6
+@SQ	SN:AEMK02000556.1	LN:40390	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:99c03120277d063381b1dbc0bdeae87c
+@SQ	SN:AEMK02000402.1	LN:40091	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b5b71f94d67254ca62c941721a151895
+@SQ	SN:AEMK02000681.1	LN:40048	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0ab83529fc871405e08784c97313fb4e
+@SQ	SN:AEMK02000520.1	LN:39997	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d28a9549ec546d83bcef754917fa4fd7
+@SQ	SN:AEMK02000202.1	LN:39923	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:91c0486e288feb0dd3d03c53b2aa9049
+@SQ	SN:AEMK02000268.1	LN:39828	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9daaf877c8bcdbb0711701859900fbf8
+@SQ	SN:AEMK02000187.1	LN:39765	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:791a3ebe64f7c2e7cb9b558bfb091a8b
+@SQ	SN:AEMK02000325.1	LN:39598	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:df4889ae604e3b68ea9593a84b348d0a
+@SQ	SN:AEMK02000433.1	LN:39522	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4ec6f66d00b497222847e0acedbd355b
+@SQ	SN:AEMK02000140.1	LN:39503	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:09b15a8ebf98d11e447202953758e497
+@SQ	SN:AEMK02000638.1	LN:39448	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5231d7d3d91fb6bbc02afdf07d34becc
+@SQ	SN:AEMK02000671.1	LN:39267	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9be3aa4256f19b572150588459e8198b
+@SQ	SN:AEMK02000619.1	LN:39236	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d1a62532fd6f764febce2422e6e1da64
+@SQ	SN:AEMK02000469.1	LN:39098	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:eec6d89d92af149a1249e9d83b4ca373
+@SQ	SN:AEMK02000244.1	LN:39063	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3320a3bb1d56dead18163ec63eb1e05d
+@SQ	SN:AEMK02000209.1	LN:38942	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:190c143cb74187c5fa976a4b01b9a021
+@SQ	SN:AEMK02000374.1	LN:38887	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c2f5a7c0eaf71d734d9817ee7b9ffa53
+@SQ	SN:AEMK02000222.1	LN:38859	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7565e37530efa940d781c5cdfeffc8af
+@SQ	SN:AEMK02000139.1	LN:38775	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ed979c85947f72fa2cb6fe1c5186257f
+@SQ	SN:AEMK02000548.1	LN:38669	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bd0c4c9bef51b85b518e5043a617da45
+@SQ	SN:AEMK02000246.1	LN:38453	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:be6b9ecd82ba449e7fbbc1c631b857d7
+@SQ	SN:AEMK02000505.1	LN:38289	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8936895393c994c833927c622660db84
+@SQ	SN:AEMK02000624.1	LN:38262	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bdfe9dff5a6af7afe65bc264527ff9e9
+@SQ	SN:AEMK02000645.1	LN:38247	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f121d1f5636135910d4256a7d4c6f0c4
+@SQ	SN:AEMK02000442.1	LN:38108	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f6991894d036678de7f7df8658be07a4
+@SQ	SN:AEMK02000675.1	LN:38099	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e551e3ef6aabfe82c7f979bf04c9b63b
+@SQ	SN:AEMK02000252.1	LN:38060	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a0176d9f61ea1e7bd033cd13efc9a351
+@SQ	SN:AEMK02000536.1	LN:37985	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9c63930e422baae13c928c1d1e88e076
+@SQ	SN:AEMK02000500.1	LN:37867	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b5fe9d16f027e30d0db517aac770e75f
+@SQ	SN:AEMK02000243.1	LN:37675	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a9dcc7587dcf49ed95ab989f3a8199d2
+@SQ	SN:AEMK02000267.1	LN:37674	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cc5ffb2bf7a6023881de501d3dd8150c
+@SQ	SN:AEMK02000450.1	LN:37546	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b33ae503ff16fbba416f307587a11227
+@SQ	SN:AEMK02000127.1	LN:37414	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0ee6ab9b5c58de0d56679a0cb0f2085e
+@SQ	SN:AEMK02000581.1	LN:37293	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8bb0d604af630d8014a4a3c80193c141
+@SQ	SN:AEMK02000150.1	LN:37252	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:277e3ce38b95a212051c05ad5f434cc9
+@SQ	SN:AEMK02000365.1	LN:37050	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:16b90b5fba91622c961ad6a02c49ed9f
+@SQ	SN:AEMK02000459.1	LN:36996	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:816ca75b04fd76de1d374a270de0f773
+@SQ	SN:AEMK02000420.1	LN:36859	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6a7067c0184df9462d247803fab51427
+@SQ	SN:AEMK02000467.1	LN:36784	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5b072632e9759b6dc71b107bb8486d4d
+@SQ	SN:AEMK02000603.1	LN:36608	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:61e2d8e8d84b70d3c7c2caed93aff729
+@SQ	SN:AEMK02000570.1	LN:36425	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6a9a0a3a35ba1ae205859768a79707c0
+@SQ	SN:AEMK02000664.1	LN:36264	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6cbdbccdaf8a179745dd08b8b71471ce
+@SQ	SN:AEMK02000269.1	LN:36105	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ecc85777305eecf8a2fa8df649c239ec
+@SQ	SN:AEMK02000607.1	LN:36098	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d6c808271e89fb9168d9b3ea68ed8fd5
+@SQ	SN:AEMK02000387.1	LN:35978	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a351c6fef4b8b02c1fae459f691eda9e
+@SQ	SN:AEMK02000201.1	LN:35839	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:753d9a812225a6bf71d38032534a607c
+@SQ	SN:AEMK02000377.1	LN:35800	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ff5b0978a70f8182be7368892c79ccbc
+@SQ	SN:AEMK02000618.1	LN:35796	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:858c4080e80a45390beb06839e2f16ca
+@SQ	SN:AEMK02000157.1	LN:35768	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2c07493b97a1f313900b804a28184cc6
+@SQ	SN:AEMK02000355.1	LN:35698	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1f37aaa0266274fe012228b8c2724d3d
+@SQ	SN:AEMK02000597.1	LN:35610	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2ec49ce4e673403120f30524aeea6a12
+@SQ	SN:AEMK02000216.1	LN:35435	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cfe2552cf02692aafab8cc76d53b87f6
+@SQ	SN:AEMK02000337.1	LN:35413	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8a5e3b189b1da51cdeebb4119a4a21fd
+@SQ	SN:AEMK02000475.1	LN:35399	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:32f41584e633758e8112fb16fd4c4986
+@SQ	SN:AEMK02000165.1	LN:35256	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cac37fcbcbc725a7a2090ab6231d1c96
+@SQ	SN:AEMK02000134.1	LN:35132	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ffb0d7f5e5e7771953aab06786769da1
+@SQ	SN:AEMK02000218.1	LN:35090	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:05c9eff59f032ff72b52e20dafe28f85
+@SQ	SN:AEMK02000379.1	LN:35033	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:dad88c54d8802b0f5883c5c311218365
+@SQ	SN:AEMK02000553.1	LN:34945	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:adc04216edf9fb1aee8354ab9c94ded2
+@SQ	SN:AEMK02000604.1	LN:34712	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2b2c2e56781686cae388d4699b30b384
+@SQ	SN:AEMK02000635.1	LN:34704	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:51b3f552822a4db5994f3fe45edf7f33
+@SQ	SN:AEMK02000316.1	LN:34675	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1ee6bbe64c795f6835caa69804be561a
+@SQ	SN:AEMK02000533.1	LN:34572	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f8aaa206076fdec0301f221b24dfe6d2
+@SQ	SN:AEMK02000233.1	LN:34570	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f1d05b1a8ca939155a2185d5a0f06b9b
+@SQ	SN:AEMK02000356.1	LN:34299	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c901ac300f4af0354d32f40245ce61e8
+@SQ	SN:AEMK02000360.1	LN:34294	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:309342ec76d6d879aaaf145177ed2536
+@SQ	SN:AEMK02000348.1	LN:34187	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:111e0895f659fb45dd65b9a9e05f055e
+@SQ	SN:AEMK02000231.1	LN:33498	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:35f0cb753ebe883d54258bfff787f735
+@SQ	SN:AEMK02000605.1	LN:33397	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:233f275c69cda48805a2a52dcdaf62ad
+@SQ	SN:AEMK02000643.1	LN:33108	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f7feff403e83f793af6bd3cecbec5bd8
+@SQ	SN:AEMK02000199.1	LN:32990	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:524f7ae77a53eb1719fa86b8e08a1d27
+@SQ	SN:AEMK02000490.1	LN:32989	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f9385ac166ea5f34233517065fa581cc
+@SQ	SN:AEMK02000192.1	LN:32780	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:556e7701840b17a7355ff40a0d1692c6
+@SQ	SN:AEMK02000265.1	LN:32772	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8ac5323a3c37c85613d83255b2b571ca
+@SQ	SN:AEMK02000650.1	LN:32614	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c4a189eef34137d6b594f328aa4e1f29
+@SQ	SN:AEMK02000257.1	LN:32545	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:93d27cf3a3218121229d58d351df23b5
+@SQ	SN:AEMK02000613.1	LN:32495	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:64563c94ceb828eb462fbe9ce3fbe7e8
+@SQ	SN:AEMK02000634.1	LN:32492	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:07804d74803584d157f1da57697ae31f
+@SQ	SN:AEMK02000473.1	LN:32348	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5ebcb34e94b269515024cf3f2b29f74b
+@SQ	SN:AEMK02000582.1	LN:32249	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d080eb08d417b9e6f161debf48674f90
+@SQ	SN:AEMK02000524.1	LN:32207	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:48fa02189c0800e768d2f25a0802db0e
+@SQ	SN:AEMK02000262.1	LN:32067	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:cc1a5a753cc8437cc865d727393fba80
+@SQ	SN:AEMK02000448.1	LN:32062	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3a01572c14d149ac8282bd26c42d1baa
+@SQ	SN:AEMK02000123.1	LN:32000	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:495ab6d31b74b1a28207ef256ceaa483
+@SQ	SN:AEMK02000578.1	LN:31967	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:95c20764849a43fdc32d71e4f56fd05b
+@SQ	SN:AEMK02000249.1	LN:31957	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2231d52dbcf1891636b82348ade98b5a
+@SQ	SN:AEMK02000303.1	LN:31897	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8948624a085b2dc506d893aaf14e8abe
+@SQ	SN:AEMK02000237.1	LN:31858	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:330078fcc792d2552e82e3f883ee1e22
+@SQ	SN:AEMK02000319.1	LN:31818	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:44f2c207d1a1d40798ad6ec28133175d
+@SQ	SN:AEMK02000609.1	LN:31792	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ef90e260f002aecbc96c20483904e4fd
+@SQ	SN:AEMK02000211.1	LN:31659	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:84172459c1e2264d6bf925bc16ae9383
+@SQ	SN:AEMK02000498.1	LN:31599	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c8fe0e25fd5114bd23e004bd91ceebf6
+@SQ	SN:AEMK02000516.1	LN:31562	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:165509511097d8902a2a31096d8c2a0c
+@SQ	SN:AEMK02000141.1	LN:31401	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b8ab5a96430a120e25e70656bcc74f00
+@SQ	SN:AEMK02000143.1	LN:31175	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1a120eef5d5f4ee78b34867843a0fbc9
+@SQ	SN:AEMK02000326.1	LN:30837	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:daf82af08fad1c19c7f5d68da9588ed8
+@SQ	SN:AEMK02000499.1	LN:30824	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6a016a5497b447de6daf6b50bb83259e
+@SQ	SN:AEMK02000293.1	LN:30558	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e63abdb0d4df17cfc6bc182fe501be99
+@SQ	SN:AEMK02000418.1	LN:30547	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e4f4d3707be44b6f89323a72fe1b926c
+@SQ	SN:AEMK02000610.1	LN:30466	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bfb7d4313cc760f10d768b8dc52043c1
+@SQ	SN:AEMK02000376.1	LN:30397	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a634f619a438ef1b42cfea7f2c62481c
+@SQ	SN:AEMK02000347.1	LN:30289	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:72a2aebf0a6a90d030c11e89ce7d4eca
+@SQ	SN:AEMK02000314.1	LN:30249	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9677dcaa3b1574975fe7817a6dda1ca2
+@SQ	SN:AEMK02000560.1	LN:30120	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d3fc2eb6aa32ba6fea54083fbfd047d9
+@SQ	SN:AEMK02000601.1	LN:30048	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7b4e339769b8a6a1c857f317c827280f
+@SQ	SN:AEMK02000455.1	LN:30003	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:17f415bb98449b5bf310a7856a75eb86
+@SQ	SN:AEMK02000372.1	LN:29770	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a92aac7865994a97abb279418e784c52
+@SQ	SN:AEMK02000484.1	LN:29734	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9c5e61a0d64d2aa8ff3e78f22b4449f7
+@SQ	SN:AEMK02000329.1	LN:29544	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5af13bdd19c048557052860363d77db5
+@SQ	SN:AEMK02000359.1	LN:29315	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:56749098bd7368d7b38f133e9160d827
+@SQ	SN:AEMK02000470.1	LN:29154	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0b81144a906475c1097b6e797450291a
+@SQ	SN:AEMK02000160.1	LN:29131	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7d8576645bbb5d2f1503e9f65765f06c
+@SQ	SN:AEMK02000428.1	LN:28902	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ac877f059c25614be0abfb073f746547
+@SQ	SN:AEMK02000195.1	LN:28777	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bb80f86ca8f2b228deade785b9cdb8cd
+@SQ	SN:AEMK02000288.1	LN:28312	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4fd7e761b9091f4aaff2e77760591818
+@SQ	SN:AEMK02000463.1	LN:28245	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:366b5668996706936a649f5e67a7d0f1
+@SQ	SN:AEMK02000298.1	LN:28220	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f47c4c82ee58019d3f0a47efd8af72e6
+@SQ	SN:AEMK02000436.1	LN:28062	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3c2dbf13760b12fd796bb9a34aebd498
+@SQ	SN:AEMK02000405.1	LN:28054	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0f39947845ef55b7073034ad192e4e6b
+@SQ	SN:AEMK02000538.1	LN:27978	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:47c3b8c2c0ebb3d4fe5dbf604452696a
+@SQ	SN:AEMK02000321.1	LN:27922	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e38204c36847842ccdc3ef8756dd0474
+@SQ	SN:AEMK02000633.1	LN:27743	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:87d700082cea56800ce6229fb6aba41a
+@SQ	SN:AEMK02000158.1	LN:27693	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bc342826526cfc467a9a5a083be64eee
+@SQ	SN:AEMK02000196.1	LN:27681	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3be85a455d9c9a79c7ffbb022ae14c07
+@SQ	SN:AEMK02000388.1	LN:27663	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6ef6c2b3295e74f54f045ea9526216a5
+@SQ	SN:AEMK02000488.1	LN:27635	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b082ec9e517e3660addd732f6e6741e9
+@SQ	SN:AEMK02000615.1	LN:27455	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:909cfff4214cce209b53d6248e3f5f1d
+@SQ	SN:AEMK02000224.1	LN:27355	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3fd26ab0c3bf9c179e346afd6c5e3e56
+@SQ	SN:AEMK02000666.1	LN:27124	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:109d611c3bf8891497695972e5fe833d
+@SQ	SN:AEMK02000290.1	LN:26999	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:69abcf8aec132211f32e097a9657ce37
+@SQ	SN:AEMK02000648.1	LN:26953	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:15905584987a68b48ea3f49e4d2056e4
+@SQ	SN:AEMK02000629.1	LN:26916	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d7377871f6568c452389ea8fd0f102a2
+@SQ	SN:AEMK02000691.1	LN:26904	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b56ccc643c31ad564e4be2c798b0484e
+@SQ	SN:AEMK02000317.1	LN:26654	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6669d56e2299a78803db2a8e60dad498
+@SQ	SN:AEMK02000132.1	LN:26642	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:246b5ce9bdd45eddaf1c6e120c20029f
+@SQ	SN:AEMK02000126.1	LN:26602	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e5ee25096304bc0fbdbcc1f683f29872
+@SQ	SN:AEMK02000599.1	LN:26507	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9a40f78693b9a576597e994dc345ccb1
+@SQ	SN:AEMK02000242.1	LN:26351	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:70cc1f109c7992b1d588ae863c89b8d8
+@SQ	SN:AEMK02000446.1	LN:26304	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:893353ad6d0311491645ee0ae39135da
+@SQ	SN:AEMK02000527.1	LN:26146	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d6195c49beeedfd6177d75a2e3bad03e
+@SQ	SN:AEMK02000684.1	LN:26145	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:19e48e72e783a4ad4d699855310d926b
+@SQ	SN:AEMK02000154.1	LN:26018	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:95e7776d282fd4992094f1d4c677d1ac
+@SQ	SN:AEMK02000212.1	LN:25912	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:20a6dd2feee56031a1aed0186af91494
+@SQ	SN:AEMK02000447.1	LN:25908	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5591b9c6e9bc3e6ed811ffe9e66a05d4
+@SQ	SN:AEMK02000136.1	LN:25867	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6f613d0c0b7f5643c207a078d30a3b28
+@SQ	SN:AEMK02000670.1	LN:25784	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:046d74943383475e17ccb4b4056e3eed
+@SQ	SN:AEMK02000178.1	LN:25711	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:58f623f78872cd8a0f4f3a39ca0f60e7
+@SQ	SN:AEMK02000653.1	LN:25690	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:216f765a8a6a83df38430700865aa17a
+@SQ	SN:AEMK02000625.1	LN:25476	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fa550ad0f8499598399bc329f94de088
+@SQ	SN:AEMK02000194.1	LN:25467	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c101ed9f611cecc8d47b12a6399c5168
+@SQ	SN:AEMK02000167.1	LN:25463	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:6a75ebc8458b4ae3b5c183e166da6979
+@SQ	SN:AEMK02000338.1	LN:25373	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8808e209c5464bcdf3cf28fb8daedfa6
+@SQ	SN:AEMK02000193.1	LN:25358	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:af7d5eb809f7d1371ff3e4967d5ee0db
+@SQ	SN:AEMK02000454.1	LN:25241	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7f2f190ddc63a4fb573dbb0a9f37ec3b
+@SQ	SN:AEMK02000567.1	LN:25217	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7fa3303ea5355885bf3f01e1c47e4e0f
+@SQ	SN:AEMK02000128.1	LN:25182	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a9007578e2e645f02d160bfc1b3cedec
+@SQ	SN:AEMK02000312.1	LN:25057	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:436ee67399ebf52b9fed0e1cb712e19e
+@SQ	SN:AEMK02000335.1	LN:24880	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b1f4570a98169aef7834212fdfad776c
+@SQ	SN:AEMK02000667.1	LN:24873	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f5039e70622cadf6881d8e1b38e0d8c1
+@SQ	SN:AEMK02000354.1	LN:24819	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f4c5aa208501be65a53bc84ab9b10ec0
+@SQ	SN:AEMK02000530.1	LN:24729	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b852cf41b2cd429d90ecaa0f5b5fbaba
+@SQ	SN:AEMK02000198.1	LN:24675	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c2c71c6a68c410baac00518b90f1c813
+@SQ	SN:AEMK02000688.1	LN:24670	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:35a70d538400851400f7dc9a04466c4a
+@SQ	SN:AEMK02000587.1	LN:24651	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c7c1cf47429770ab83a453c5b3108359
+@SQ	SN:AEMK02000371.1	LN:24648	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9bde7342470819c0270d9835647257c1
+@SQ	SN:AEMK02000413.1	LN:24645	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3900725831928898f1d827a3404f9e9d
+@SQ	SN:AEMK02000296.1	LN:24616	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:16e7380b47a1fcc9ca5aee5c14e23eb5
+@SQ	SN:AEMK02000547.1	LN:24575	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:703be823004f19c002f04a694c53f4e3
+@SQ	SN:AEMK02000545.1	LN:24571	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a08cbd3dac411cc94d3cdb7d51381dca
+@SQ	SN:AEMK02000464.1	LN:24501	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f608c6021f5b5fc335a71340cbd43ebe
+@SQ	SN:AEMK02000396.1	LN:24422	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:ee517e78d3e549ebca08170376a90fc7
+@SQ	SN:AEMK02000669.1	LN:24413	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:374d80f8f68d0991d334dc307e473a08
+@SQ	SN:AEMK02000419.1	LN:24396	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bbf1dc43ffdfc541bbe601bdaa059cca
+@SQ	SN:AEMK02000652.1	LN:24338	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9a8f1f822172c3122b0d5e42d71d5d6f
+@SQ	SN:AEMK02000205.1	LN:24313	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a7890481d15500130cc435e147aaf130
+@SQ	SN:AEMK02000693.1	LN:24178	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0f0fdc15ed40195797f31984adf8eb77
+@SQ	SN:AEMK02000557.1	LN:24118	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bf07a1350b7af9e3abf093f9b9469104
+@SQ	SN:AEMK02000149.1	LN:24060	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d531ed8f3c14a5b4b0e3a597a956f33b
+@SQ	SN:AEMK02000353.1	LN:24015	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e1e375d7bbfbf5591cdf2456808f7a80
+@SQ	SN:AEMK02000651.1	LN:23994	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:accc8b7b6879e657a65687d855accc8d
+@SQ	SN:AEMK02000352.1	LN:23971	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c93b5e3fae970db68c6b6b633acfddc5
+@SQ	SN:AEMK02000166.1	LN:23908	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:68ea78cee52e5fe58b4388d0a5448659
+@SQ	SN:AEMK02000145.1	LN:23883	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9f0dffc35ec7edfacb6effe36ceae14d
+@SQ	SN:AEMK02000700.1	LN:23737	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c64801e5c0e5a2b69b67e000cff86908
+@SQ	SN:AEMK02000306.1	LN:23710	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:63ef61cff714eed71355abcaed4afb88
+@SQ	SN:AEMK02000462.1	LN:23690	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:387c0197852956873221eca98aeeea9f
+@SQ	SN:AEMK02000502.1	LN:23675	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e46564b9b0d7f270924ebefc3125483d
+@SQ	SN:AEMK02000155.1	LN:23493	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5c896401caa9d0a9b85e062832cdbdbd
+@SQ	SN:AEMK02000214.1	LN:23279	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0f73658feb90a54ad9d0fd6dda410ccd
+@SQ	SN:AEMK02000424.1	LN:23240	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a54e266610cc30d76357514390eb62cf
+@SQ	SN:AEMK02000351.1	LN:23110	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:89ca4bf73df737f263fbda4c2d758434
+@SQ	SN:AEMK02000384.1	LN:22885	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:77262b774a2381edb43f9396de766bcf
+@SQ	SN:AEMK02000458.1	LN:22707	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:12fc608e9c2da6e539f8d283d81d8d21
+@SQ	SN:AEMK02000492.1	LN:22673	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:7ce3933ca01f18f1d32064490692206a
+@SQ	SN:AEMK02000686.1	LN:22650	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9f5486b05aa1aed86560898120345bc1
+@SQ	SN:AEMK02000357.1	LN:22457	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d1f8f344ddeb4932a3783a22aeb8075a
+@SQ	SN:AEMK02000608.1	LN:22393	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5bb19328354e4ac85d5e9afb9cfa9834
+@SQ	SN:AEMK02000544.1	LN:22327	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:535d8c70ab44b2a7e9b27485ac896492
+@SQ	SN:AEMK02000358.1	LN:22269	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:12e8bdfef775b6729eae20811bd98e80
+@SQ	SN:AEMK02000349.1	LN:22254	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0b5a2589c4180d60274c5aa1649a4eb3
+@SQ	SN:AEMK02000217.1	LN:22216	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d60c4c69287df28716d30b9a3119e7ea
+@SQ	SN:AEMK02000401.1	LN:22208	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:afabe363f3c0ac8232218068ce187651
+@SQ	SN:AEMK02000486.1	LN:21821	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:aaeefbbfdee323388ae91b34aed92c63
+@SQ	SN:AEMK02000690.1	LN:21690	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e3643bc36377d58324fcd4ca6afa6c30
+@SQ	SN:AEMK02000406.1	LN:21463	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:666ca8b6d5cbee437db00508034472d3
+@SQ	SN:AEMK02000206.1	LN:21439	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:19c2d517c7337b2fcbaeb3ed16f30a90
+@SQ	SN:AEMK02000397.1	LN:21409	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:455a633c6e6e452b5fb900a7cdbe94b4
+@SQ	SN:AEMK02000539.1	LN:21264	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:dbbf62edf5712b4dfff6f6af6638dd10
+@SQ	SN:AEMK02000236.1	LN:21107	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:be45e6181396d726dbdb1e09f6474f39
+@SQ	SN:AEMK02000190.1	LN:20938	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:745c59e23b78616588455136324bb88d
+@SQ	SN:AEMK02000230.1	LN:20938	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:eabfd579cdbe5fe7ccb8e2d947a9c785
+@SQ	SN:AEMK02000508.1	LN:20819	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9ffc4c11954a75ecea28e4bb026225c7
+@SQ	SN:AEMK02000307.1	LN:20771	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a1e4da13e2ef0b772d1e11d679628351
+@SQ	SN:AEMK02000551.1	LN:20589	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3ddda30ef3f486396f2a7a106b2293e4
+@SQ	SN:AEMK02000564.1	LN:20419	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a40b424dd5d778531c4f29d6b080d3cc
+@SQ	SN:AEMK02000594.1	LN:20300	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a4ec914e53ec04a18ecada9c135694d6
+@SQ	SN:AEMK02000430.1	LN:20230	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8666124248b9bb7174ef4b52523fb498
+@SQ	SN:AEMK02000219.1	LN:19883	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:1dba01334917f5da078da9a2732f1e5a
+@SQ	SN:AEMK02000481.1	LN:19728	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d8c84eaeed34793849ad525e01d85a5b
+@SQ	SN:AEMK02000148.1	LN:19496	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:fb83495a2d02f63e0e913bbffe2739a0
+@SQ	SN:AEMK02000285.1	LN:19482	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b574142e92aec3e478b2f39cfcf7624c
+@SQ	SN:AEMK02000491.1	LN:19466	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5c95be6d27c85b8400c98cff8caa9c20
+@SQ	SN:AEMK02000294.1	LN:19443	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4ea09a494fd2898110561453627773ec
+@SQ	SN:AEMK02000343.1	LN:19362	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8350b927e16d7a908bccbebe8d5b9106
+@SQ	SN:AEMK02000562.1	LN:19341	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2889504e18f87284e1d8dd8de707fd1e
+@SQ	SN:AEMK02000185.1	LN:19277	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:c63b19a7cec69402d1dff5f79bebb47e
+@SQ	SN:AEMK02000284.1	LN:19274	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a0f3778a0edc632aeb89012ee2fd190c
+@SQ	SN:AEMK02000362.1	LN:19234	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:00813a918205e031822a75353a640c5f
+@SQ	SN:AEMK02000184.1	LN:19005	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:4018478b674bf41508b08ac880cbc14b
+@SQ	SN:AEMK02000281.1	LN:18788	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:9561d307215f025c7616c82b2f1e92df
+@SQ	SN:AEMK02000705.1	LN:18345	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3835137f0bb03a31973c276d04977781
+@SQ	SN:AEMK02000220.1	LN:18189	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:bd636eec0593cc21d7312d8e5e30e91b
+@SQ	SN:AEMK02000151.1	LN:18134	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b32c1f16e7dace9a65f4c8ca43d526e9
+@SQ	SN:AEMK02000381.1	LN:18081	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b983892b07607107575892ad217b912d
+@SQ	SN:AEMK02000441.1	LN:17962	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:edba1b3b100023a0e3bfd2f63bc9d256
+@SQ	SN:AEMK02000350.1	LN:17924	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:f2aa74abf5e2d060846bb57a8fb06727
+@SQ	SN:AEMK02000701.1	LN:17846	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d2beac61023eb57bb9ce1d6324fc1cfa
+@SQ	SN:AEMK02000580.1	LN:17747	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5c0a4f2ae45c84a419efea46c0334542
+@SQ	SN:AEMK02000531.1	LN:17708	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:2f96de51d61a02794020b79ca84c7a7a
+@SQ	SN:AEMK02000535.1	LN:17699	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0f29710867b62eaaa6c9ff5742d089a0
+@SQ	SN:AEMK02000272.1	LN:17331	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:57d5bb1f624d940fc1c88f6c26191701
+@SQ	SN:AEMK02000239.1	LN:17318	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:63f6c46490f60c6c1c4a8885c2be451b
+@SQ	SN:AEMK02000642.1	LN:17027	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:714bd2a52f83eb133735d5da713388e2
+@SQ	SN:AEMK02000432.1	LN:17025	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:426eff730672d6d9f8de8c7a44d5a0c4
+@SQ	SN:MT	LN:16613	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:8401891f01996eeeaf8fa3b710dfed4b
+@SQ	SN:AEMK02000409.1	LN:16500	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e4b93a2b3649cdf22d53eb4afa4cf843
+@SQ	SN:AEMK02000586.1	LN:16304	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b5e9a66f04c721ec4e66c4b3746a83d0
+@SQ	SN:AEMK02000695.1	LN:16266	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:760750839d525032e952092382a1be49
+@SQ	SN:AEMK02000342.1	LN:15919	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:be2dbbfaca7765bf198eb145efbcf420
+@SQ	SN:AEMK02000124.1	LN:15784	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:b1ff55d17b1cb2e8a8bd0e1eeb8000d7
+@SQ	SN:AEMK02000689.1	LN:15689	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:3fe02651274c76fee60af59aa2366a3a
+@SQ	SN:AEMK02000573.1	LN:15624	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5c862963f5622cc1e33b107693178027
+@SQ	SN:AEMK02000663.1	LN:15547	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e3ebb5cce049b54aa6db817dc461d502
+@SQ	SN:AEMK02000302.1	LN:15543	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:0db35ec63672edf8c30aa069124ba8e9
+@SQ	SN:AEMK02000270.1	LN:15496	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:d66f994351103f87c95e564574db018b
+@SQ	SN:AEMK02000323.1	LN:15455	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5e997ddf017311114b915a8af205ebc6
+@SQ	SN:AEMK02000417.1	LN:15107	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:a642454f52386a8099f5ac7a2bcfff8c
+@SQ	SN:AEMK02000654.1	LN:15107	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:e3e73daf60e2ea95a49e2d075ef3caf8
+@SQ	SN:AEMK02000519.1	LN:15096	UR:file:/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta	M5:5338dc70fbb6a8779b943787ac6f6064
+@PG	ID:1	CL:IntervalListTools INPUT=[excludeN_100.interval_list, genome_main.interval_list] OUTPUT=Sscrofa11.1_excludeN_100.interval_list PADDING=0 UNIQUE=false ACTION=INTERSECT SCATTER_COUNT=1 INCLUDE_FILTERED=false BREAK_BANDS_AT_MULTIPLES_OF=0 SUBDIVISION_MODE=INTERVAL_SUBDIVISION INVERT=false TMP_DIR=[/fscratch/socci] VALIDATION_STRINGENCY=SILENT    DONT_MERGE_ABUTTING=false SORT=true OUTPUT_VALUE=NONE VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false	PN:IntervalListTools
+1	1	274330532	+	. intersection ACGTmer
+2	1	10396907	+	. intersection ACGTmer
+2	10403181	13641975	+	. intersection ACGTmer
+2	13691976	50492376	+	. intersection ACGTmer
+2	50542377	62881957	+	. intersection ACGTmer
+2	62910809	151935994	+	. intersection ACGTmer
+3	1	21658396	+	. intersection ACGTmer
+3	21708397	28513173	+	. intersection ACGTmer
+3	28563174	41682004	+	. intersection ACGTmer
+3	41732005	43577830	+	. intersection ACGTmer
+3	43627831	132848913	+	. intersection ACGTmer
+4	1	100518328	+	. intersection ACGTmer
+4	100558375	130910915	+	. intersection ACGTmer
+5	1	3049453	+	. intersection ACGTmer
+5	3099454	16767676	+	. intersection ACGTmer
+5	16817677	39828563	+	. intersection ACGTmer
+5	39878564	104526007	+	. intersection ACGTmer
+6	1	18397423	+	. intersection ACGTmer
+6	18497304	29130826	+	. intersection ACGTmer
+6	29229977	55848982	+	. intersection ACGTmer
+6	55898983	58558886	+	. intersection ACGTmer
+6	58608887	63181943	+	. intersection ACGTmer
+6	63231944	164545422	+	. intersection ACGTmer
+6	164620119	170843587	+	. intersection ACGTmer
+7	1	22379582	+	. intersection ACGTmer
+7	22429583	47121897	+	. intersection ACGTmer
+7	47171898	121844099	+	. intersection ACGTmer
+8	1	5521801	+	. intersection ACGTmer
+8	5571802	54605394	+	. intersection ACGTmer
+8	54655395	138966237	+	. intersection ACGTmer
+9	1	139512083	+	. intersection ACGTmer
+10	1	19197730	+	. intersection ACGTmer
+10	19249751	24976564	+	. intersection ACGTmer
+10	25026565	69359453	+	. intersection ACGTmer
+11	1	35820705	+	. intersection ACGTmer
+11	35870706	79169978	+	. intersection ACGTmer
+12	1	58573885	+	. intersection ACGTmer
+12	58676307	61602749	+	. intersection ACGTmer
+13	1	30826201	+	. intersection ACGTmer
+13	30925325	208334590	+	. intersection ACGTmer
+14	1	141755446	+	. intersection ACGTmer
+15	1	52130888	+	. intersection ACGTmer
+15	52180889	140412725	+	. intersection ACGTmer
+16	1	79944280	+	. intersection ACGTmer
+17	1	8717852	+	. intersection ACGTmer
+17	8767853	8855042	+	. intersection ACGTmer
+17	8905043	14977800	+	. intersection ACGTmer
+17	15027801	63494081	+	. intersection ACGTmer
+18	1	55982971	+	. intersection ACGTmer
+X	1	49794196	+	. intersection ACGTmer
+X	49844197	60826475	+	. intersection ACGTmer
+X	60876476	65139915	+	. intersection ACGTmer
+X	65140203	84828166	+	. intersection ACGTmer
+X	84845604	95048045	+	. intersection ACGTmer
+X	95090516	125939595	+	. intersection ACGTmer
+Y	1	69770	+	. intersection ACGTmer
+Y	74771	113394	+	. intersection ACGTmer
+Y	118395	162913	+	. intersection ACGTmer
+Y	167914	195468	+	. intersection ACGTmer
+Y	200469	249651	+	. intersection ACGTmer
+Y	254652	291666	+	. intersection ACGTmer
+Y	296667	360780	+	. intersection ACGTmer
+Y	365781	414941	+	. intersection ACGTmer
+Y	419942	459834	+	. intersection ACGTmer
+Y	464835	531616	+	. intersection ACGTmer
+Y	536617	595019	+	. intersection ACGTmer
+Y	600020	637254	+	. intersection ACGTmer
+Y	642255	669842	+	. intersection ACGTmer
+Y	674843	710627	+	. intersection ACGTmer
+Y	715628	753613	+	. intersection ACGTmer
+Y	758614	829461	+	. intersection ACGTmer
+Y	834462	974641	+	. intersection ACGTmer
+Y	979642	1150862	+	. intersection ACGTmer
+Y	1155863	1192087	+	. intersection ACGTmer
+Y	1197088	1295679	+	. intersection ACGTmer
+Y	1300680	1459702	+	. intersection ACGTmer
+Y	1464703	1500273	+	. intersection ACGTmer
+Y	1505274	1568042	+	. intersection ACGTmer
+Y	1573043	1629885	+	. intersection ACGTmer
+Y	1634886	1809738	+	. intersection ACGTmer
+Y	1814739	1879484	+	. intersection ACGTmer
+Y	1884485	1952108	+	. intersection ACGTmer
+Y	1957109	2020601	+	. intersection ACGTmer
+Y	2025602	2092359	+	. intersection ACGTmer
+Y	2097360	2136226	+	. intersection ACGTmer
+Y	2141227	2547510	+	. intersection ACGTmer
+Y	2552511	2590795	+	. intersection ACGTmer
+Y	2595796	2660680	+	. intersection ACGTmer
+Y	2665681	2707392	+	. intersection ACGTmer
+Y	2712393	2764595	+	. intersection ACGTmer
+Y	2769596	2968433	+	. intersection ACGTmer
+Y	2973434	3169746	+	. intersection ACGTmer
+Y	3174747	3354296	+	. intersection ACGTmer
+Y	3359297	3434694	+	. intersection ACGTmer
+Y	3439695	3478023	+	. intersection ACGTmer
+Y	3483024	3519805	+	. intersection ACGTmer
+Y	3524806	3630462	+	. intersection ACGTmer
+Y	3635463	3703821	+	. intersection ACGTmer
+Y	3708822	3775786	+	. intersection ACGTmer
+Y	3780787	3888540	+	. intersection ACGTmer
+Y	3893541	4161422	+	. intersection ACGTmer
+Y	4166423	4221705	+	. intersection ACGTmer
+Y	4221819	4232973	+	. intersection ACGTmer
+Y	4237974	4276033	+	. intersection ACGTmer
+Y	4281034	4356600	+	. intersection ACGTmer
+Y	4361601	4464122	+	. intersection ACGTmer
+Y	4469123	4512331	+	. intersection ACGTmer
+Y	4517332	4550894	+	. intersection ACGTmer
+Y	4555895	4656881	+	. intersection ACGTmer
+Y	4661882	4739230	+	. intersection ACGTmer
+Y	4744231	4791971	+	. intersection ACGTmer
+Y	4841972	5037965	+	. intersection ACGTmer
+Y	5087966	5186436	+	. intersection ACGTmer
+Y	5236437	5377730	+	. intersection ACGTmer
+Y	5427731	5539739	+	. intersection ACGTmer
+Y	5589740	5689676	+	. intersection ACGTmer
+Y	5739677	5865599	+	. intersection ACGTmer
+Y	5915600	5990051	+	. intersection ACGTmer
+Y	6040052	6140738	+	. intersection ACGTmer
+Y	6190739	6226789	+	. intersection ACGTmer
+Y	6231790	6311617	+	. intersection ACGTmer
+Y	6316618	6385756	+	. intersection ACGTmer
+Y	6390757	6414386	+	. intersection ACGTmer
+Y	6464387	6524995	+	. intersection ACGTmer
+Y	6529996	6568083	+	. intersection ACGTmer
+Y	6618084	6683971	+	. intersection ACGTmer
+Y	6733972	6772284	+	. intersection ACGTmer
+Y	6777285	6814264	+	. intersection ACGTmer
+Y	6864265	6885949	+	. intersection ACGTmer
+Y	6890950	6919895	+	. intersection ACGTmer
+Y	6969896	7038978	+	. intersection ACGTmer
+Y	7088979	7164423	+	. intersection ACGTmer
+Y	7214424	7286333	+	. intersection ACGTmer
+Y	7336334	7365699	+	. intersection ACGTmer
+Y	7370700	7406132	+	. intersection ACGTmer
+Y	7456133	7519201	+	. intersection ACGTmer
+Y	7569202	7587847	+	. intersection ACGTmer
+Y	7592848	7608923	+	. intersection ACGTmer
+Y	7658924	7696911	+	. intersection ACGTmer
+Y	7701912	7740541	+	. intersection ACGTmer
+Y	7745542	7782161	+	. intersection ACGTmer
+Y	7787162	7828410	+	. intersection ACGTmer
+Y	7833411	7876133	+	. intersection ACGTmer
+Y	7881134	7926638	+	. intersection ACGTmer
+Y	7931639	7972113	+	. intersection ACGTmer
+Y	7977114	7998877	+	. intersection ACGTmer
+Y	8003878	8053353	+	. intersection ACGTmer
+Y	8058354	8100354	+	. intersection ACGTmer
+Y	8105355	8140358	+	. intersection ACGTmer
+Y	8145359	8186356	+	. intersection ACGTmer
+Y	8191357	8256154	+	. intersection ACGTmer
+Y	8261155	8297321	+	. intersection ACGTmer
+Y	8302322	8330119	+	. intersection ACGTmer
+Y	8335120	8369370	+	. intersection ACGTmer
+Y	8374371	8386769	+	. intersection ACGTmer
+Y	8391770	8424136	+	. intersection ACGTmer
+Y	8429137	8467022	+	. intersection ACGTmer
+Y	8472023	8514161	+	. intersection ACGTmer
+Y	8519162	8559085	+	. intersection ACGTmer
+Y	8564086	8592719	+	. intersection ACGTmer
+Y	8597720	8657941	+	. intersection ACGTmer
+Y	8662942	8792655	+	. intersection ACGTmer
+Y	8797656	8837576	+	. intersection ACGTmer
+Y	8937577	9108635	+	. intersection ACGTmer
+Y	9128636	9228339	+	. intersection ACGTmer
+Y	9238340	9276970	+	. intersection ACGTmer
+Y	9326971	9665180	+	. intersection ACGTmer
+Y	9675181	10045292	+	. intersection ACGTmer
+Y	10085293	10230556	+	. intersection ACGTmer
+Y	10380557	10528827	+	. intersection ACGTmer
+Y	19528828	19565510	+	. intersection ACGTmer
+Y	19570511	19669055	+	. intersection ACGTmer
+Y	19674056	19703847	+	. intersection ACGTmer
+Y	19753848	19790941	+	. intersection ACGTmer
+Y	19795942	19867070	+	. intersection ACGTmer
+Y	19872071	19910951	+	. intersection ACGTmer
+Y	19915952	19953166	+	. intersection ACGTmer
+Y	19958167	19992894	+	. intersection ACGTmer
+Y	20042895	20124558	+	. intersection ACGTmer
+Y	20129559	20368221	+	. intersection ACGTmer
+Y	20418222	20467611	+	. intersection ACGTmer
+Y	20517612	20570930	+	. intersection ACGTmer
+Y	20620931	20736072	+	. intersection ACGTmer
+Y	20786073	20820968	+	. intersection ACGTmer
+Y	20825969	20863510	+	. intersection ACGTmer
+Y	20868511	20922022	+	. intersection ACGTmer
+Y	20927023	20996289	+	. intersection ACGTmer
+Y	21046290	21089409	+	. intersection ACGTmer
+Y	21139410	21175379	+	. intersection ACGTmer
+Y	21180380	21216556	+	. intersection ACGTmer
+Y	21266557	21319851	+	. intersection ACGTmer
+Y	21369852	21484898	+	. intersection ACGTmer
+Y	21534899	21606257	+	. intersection ACGTmer
+Y	21656258	21746753	+	. intersection ACGTmer
+Y	21796754	21921536	+	. intersection ACGTmer
+Y	21971537	22033019	+	. intersection ACGTmer
+Y	22038020	22080148	+	. intersection ACGTmer
+Y	22130149	22177449	+	. intersection ACGTmer
+Y	22227450	22306759	+	. intersection ACGTmer
+Y	22356760	22468996	+	. intersection ACGTmer
+Y	22518997	22585787	+	. intersection ACGTmer
+Y	22635788	22679486	+	. intersection ACGTmer
+Y	22729487	22780034	+	. intersection ACGTmer
+Y	22830035	22883898	+	. intersection ACGTmer
+Y	22933899	22984523	+	. intersection ACGTmer
+Y	23034524	23069739	+	. intersection ACGTmer
+Y	23119740	23208838	+	. intersection ACGTmer
+Y	23258839	23297130	+	. intersection ACGTmer
+Y	23302131	23340535	+	. intersection ACGTmer
+Y	23345536	23378251	+	. intersection ACGTmer
+Y	23383252	23418724	+	. intersection ACGTmer
+Y	23423725	23461315	+	. intersection ACGTmer
+Y	23466316	23505172	+	. intersection ACGTmer
+Y	23510173	23552424	+	. intersection ACGTmer
+Y	23557425	23595444	+	. intersection ACGTmer
+Y	23600445	23643303	+	. intersection ACGTmer
+Y	23648304	23689637	+	. intersection ACGTmer
+Y	23694638	23732535	+	. intersection ACGTmer
+Y	23737536	23777328	+	. intersection ACGTmer
+Y	23782329	23820254	+	. intersection ACGTmer
+Y	23825255	23862091	+	. intersection ACGTmer
+Y	23867092	23906682	+	. intersection ACGTmer
+Y	23911683	23953888	+	. intersection ACGTmer
+Y	23958889	23993935	+	. intersection ACGTmer
+Y	23998936	24037577	+	. intersection ACGTmer
+Y	24087578	24164829	+	. intersection ACGTmer
+Y	24169830	24208156	+	. intersection ACGTmer
+Y	24258157	24304932	+	. intersection ACGTmer
+Y	24354933	24411155	+	. intersection ACGTmer
+Y	24461156	24495425	+	. intersection ACGTmer
+Y	24500426	24542400	+	. intersection ACGTmer
+Y	24592401	24630082	+	. intersection ACGTmer
+Y	24635083	24674327	+	. intersection ACGTmer
+Y	24679328	24715029	+	. intersection ACGTmer
+Y	24720030	24763748	+	. intersection ACGTmer
+Y	24768749	24809806	+	. intersection ACGTmer
+Y	24814807	24849487	+	. intersection ACGTmer
+Y	24854488	24892934	+	. intersection ACGTmer
+Y	24942935	24983460	+	. intersection ACGTmer
+Y	25033461	25074746	+	. intersection ACGTmer
+Y	25079747	25105964	+	. intersection ACGTmer
+Y	25110965	25152567	+	. intersection ACGTmer
+Y	25157568	25191862	+	. intersection ACGTmer
+Y	25241863	25253936	+	. intersection ACGTmer
+Y	25258937	25264796	+	. intersection ACGTmer
+Y	25269797	25276013	+	. intersection ACGTmer
+Y	25281014	25307024	+	. intersection ACGTmer
+Y	25312025	25329420	+	. intersection ACGTmer
+Y	25379421	25424817	+	. intersection ACGTmer
+Y	25474818	25532015	+	. intersection ACGTmer
+Y	39532016	39907011	+	. intersection ACGTmer
+Y	39912012	39921294	+	. intersection ACGTmer
+Y	39926295	40010306	+	. intersection ACGTmer
+Y	40015307	40034615	+	. intersection ACGTmer
+Y	40084616	40363925	+	. intersection ACGTmer
+Y	40368926	40500741	+	. intersection ACGTmer
+Y	40520742	40652910	+	. intersection ACGTmer
+Y	40657911	40763474	+	. intersection ACGTmer
+Y	41063475	41233466	+	. intersection ACGTmer
+Y	41333467	41373493	+	. intersection ACGTmer
+Y	41378494	41416798	+	. intersection ACGTmer
+Y	41466799	41521713	+	. intersection ACGTmer
+Y	41571714	41645172	+	. intersection ACGTmer
+Y	41695173	41731165	+	. intersection ACGTmer
+Y	41736166	41797541	+	. intersection ACGTmer
+Y	41847542	41929867	+	. intersection ACGTmer
+Y	41979868	42058987	+	. intersection ACGTmer
+Y	42063988	42155772	+	. intersection ACGTmer
+Y	42163386	42163489	+	. intersection ACGTmer
+Y	42168490	42259851	+	. intersection ACGTmer
+Y	42309852	42577396	+	. intersection ACGTmer
+Y	42627397	42728640	+	. intersection ACGTmer
+Y	42733641	42775461	+	. intersection ACGTmer
+Y	42780462	42822546	+	. intersection ACGTmer
+Y	42872547	42925811	+	. intersection ACGTmer
+Y	42975812	43022526	+	. intersection ACGTmer
+Y	43072527	43205390	+	. intersection ACGTmer
+Y	43255391	43304711	+	. intersection ACGTmer
+Y	43354712	43425278	+	. intersection ACGTmer
+Y	43475279	43547828	+	. intersection ACGTmer
+MT	1	16613	+	. intersection ACGTmer

@@ -1,0 +1,57 @@
+#!/bin/bash
+
+ln -s /home/socci/Work/Users/KimK/AulitzA/Proj_14579_B/CMD.WGS .
+ln -s /home/socci/Work/Users/KimK/AulitzA/Proj_14579_B/meta/Proj_14579_B_sample_mapping.txt Proj_14579_B_00_sample_mapping.txt
+
+cat Proj_14579_B_00_sample_mapping.txt \
+    | cut -f4 \
+    | xargs -I % find % -name "*.fastq.gz" \
+    | xargs -n 1 bsub -n 2 -W 59 -o LSF/ -J SPLIT ~/Code/FASTQ/SplitFASTQ/splitFastq.sh
+
+CHECK_LSF=$(find LSF* | fgrep out | xargs parseLSF.py  | fgrep -v Succ)
+
+if [ "$CHECK_LSF" != "" ]; then
+    echo
+    echo ERROR
+    echo
+    exit 1
+fi
+
+rm -rf LSF*
+
+getMappingSheet.sh <(find SPLIT -type d | fgrep Sample | xargs realpath) >Proj_14579_B_Split_sample_mapping.txt
+
+git clone -b flavor/wgs_2023 git@github.com:soccin/PEMapper.git
+
+./PEMapper/runPEMapperMultiDirectories.sh Sscrofa11.1 Proj_14579_B_Split_sample_mapping.txt 
+
+echo "BSYNC"
+BSYNC PEMapper
+
+ln -s /juno/work/bic/socci/Work/Users/KimK/AulitzA/Proj_14579_B/pipeline .
+ln -s /juno/work/bic/socci/Work/Users/KimK/AulitzA/Proj_14579_B/resources .
+ln -s /juno/work/bic/socci/Work/Users/KimK/AulitzA/Proj_14579_B/resources/bundle.sh .
+
+ls out___M/*MD.bam | xargs -n 1 bsub -o LSF/ -J GATK.BR_$$ -n 4 -W 48:00 ./pipeline/tools-gatk/gatk.BaseRecalibrator
+
+bSync GATK.BR_$$
+
+ls out___M/*MD.bam | xargs -n 1 bsub -o LSF/ -J GATK.ABQSR_$$ -n 4 -W 48:00 ./pipeline/tools-gatk/gatk.ApplyBQSR
+
+bSync GATK.ABQSR_$$
+
+export HMM_THREADS=8
+
+ls out___M/s_2*bsqr*bam | fgrep -f normals | xargs -n 1 bsub -o LSF/ -J PoN -W 96:00 ./pipeline/tools-gatk/gatk.Mutect2_1S
+
+bSync PoN
+mv variants/ PoN_v1
+
+./pipeline/mkPoN
+
+./getPairedBAMs.sh meta/Proj_14579_B_sample_pairing.txt | xargs -n 2 bsub -o LSF/ -J Mu2 -W 96:00 ./pipeline/tools-gatk/gatk.Mutect2
+
+find variants -name "*.filtered.vcf.gz" | xargs -n 1 bsub -o LSF/ -J VCF2MAF -n 12 -R "rusage[mem=5]" -W 359 ./pipeline/vcf2maf/vcf2maf_Mutect2.sh
+
+Rscript processMAF01.R
+

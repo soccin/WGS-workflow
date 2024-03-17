@@ -1,0 +1,33 @@
+#!/bin/bash
+SDIR="$( cd "$( dirname "$0" )" && pwd )"
+GATK=$SDIR/bin/gatk
+
+export GENOME=/juno/depot/assemblies/H.sapiens/b37/b37.fasta
+export DBSNP=/juno/work/bic/socci/Work/Users/ElenitK/Wur4/Proj_14887/pipeline/GATK/resources/dbsnp/All_20150605.vcf.gz
+
+BED=$1
+shift 1
+IBAM=$*
+
+BAM_MD5=$(echo $IBAM | md5sum - | perl -ne '/^(........)/;print $1')
+echo $BAM_MD5
+
+if [ "$#" == "1" ]; then
+  OTAG=$(basename ${IBAM/.bam/})
+else
+  OTAG=$BAM_MD5
+fi
+
+module unload java
+module load java/jdk-17.0.8 
+
+ODIR=out/DoC/$OTAG/$(basename ${BED/.bed/})
+mkdir -p $ODIR 
+echo $IBAM | xargs -n 1 > $ODIR/listOfBams.list
+
+$GATK DepthOfCoverage \
+  --java-options "-Xmx32g" \
+  -R $GENOME \
+  -L $BED \
+  -I $ODIR/listOfBams.list \
+  -O $ODIR/coverage.txt

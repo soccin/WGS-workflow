@@ -1,0 +1,5 @@
+time Rscript getSNPSubSetForPileup.R
+
+rm Sscrofa11.1__dbSNP__*
+cat HEADER dbSNP_SubSet.vcf0 >Sscrofa11.1__dbSNP__30k.vcf
+../pipeline/tools-gatk/bin/gatk IndexFeatureFile -I Sscrofa11.1__dbSNP__30k.vcf

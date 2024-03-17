@@ -1,0 +1,59 @@
+#!/bin/bash
+SDIR="$( cd "$( dirname "$0" )" && pwd )"
+GATK=$SDIR/bin/gatk
+
+if [ ! -e $GATK ]; then
+  echo
+  echo "ERROR: Need to install GATK"
+  echo
+  exit 1
+fi
+
+if [ -e ./bundle.sh ]; then
+   echo
+   echo "sourcing local bundle"
+   echo
+   source ./bundle.sh
+   cat ./bundle.sh
+else
+  echo
+  echo "ERROR: Need to provide bundle.sh"
+  echo
+  exit 1
+fi
+
+IBAM=$1
+SAMPLE_ID=$(samtools view -H $IBAM  | fgrep @RG | head -1 | tr '\t' '\n' | fgrep SM: | sed 's/SM://')
+
+module unload java
+module load java/jdk-17.0.8 
+
+if [ "$HMM_THREADS" == "" ]; then
+   echo
+   echo "Setting HMM_THREADS=1"
+   echo
+   HMM_THREADS=1
+fi
+
+ODIR=variants/mutect2_1s/$SAMPLE_ID
+mkdir -p $ODIR
+
+for bed in $GENOME_SCATTER/*.bed; do
+   echo $(basename ${bed/.bed/})
+   bsub -o LSF.gMu2/ -J gMu2_$$ -n $HMM_THREADS -W 24:00 \
+      $SDIR/gatk.Mutect2_1S.scatter $IBAM $bed $ODIR/scatter/$(basename ${bed/.bed/})
+done
+
+~/bin/CentOS7/bSync gMu2_$$
+
+STATSFILE=$(basename $(find $ODIR/scatter -name "*.stats*" | head -1))
+
+$GATK MergeMutectStats \
+   -O $ODIR/$STATSFILE \
+   $(find $ODIR/scatter -name "*.stats*" | awk '{print "-stats "$1}')
+
+VCFFILE=$(basename $(find $ODIR/scatter -name "*.vcf.gz" | head -1))
+
+$GATK MergeVcfs \
+   -O $ODIR/$VCFFILE \
+   $(find $ODIR/scatter -name "*.vcf.gz" | awk '{print "-I "$1}')

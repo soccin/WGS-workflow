@@ -1,0 +1,28 @@
+#!/bin/bash
+SDIR="$( cd "$( dirname "$0" )" && pwd )"
+GATK=$SDIR/bin/gatk
+
+export GENOME=/juno/depot/assemblies/H.sapiens/b37/b37.fasta
+export GATKDIR=/juno/work/bic/socci/Work/Users/ElenitK/Wur4/Proj_14887/pipeline/GATK
+export DBSNP=$GATKDIR/resources/dbsnp/All_20150605.vcf.gz
+export EXAC=$GATKDIR/bundle/b37/gatk-best-practices/somatic-b37/small_exac_common_3.vcf
+
+UVCF=$1
+
+module unload java
+module load java/jdk-17.0.8 
+
+ODIR=$(dirname $UVCF)
+
+SEGMENT_FILE=$(find $ODIR -name "*.tumor_segments.table")
+CONTAMINATION_FILE=$(find $ODIR -name "*.contamination.table")
+ORIENT_FILE=$(find $ODIR -name "*.f1r2.tar.gz")
+
+$GATK FilterMutectCalls \
+   -R $GENOME \
+   -V $UVCF \
+   --tumor-segmentation $SEGMENT_FILE \
+   --contamination-table $CONTAMINATION_FILE \
+   --ob-priors $ORIENT_FILE \
+   -O ${UVCF/.vcf.gz/.filtered.vcf.gz}
+

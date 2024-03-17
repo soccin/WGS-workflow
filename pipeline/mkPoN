@@ -1,0 +1,35 @@
+#!/bin/bash
+SDIR="$( cd "$( dirname "$0" )" && pwd )"
+GATK=$SDIR/tools-gatk/bin/gatk-4.4.0.0/gatk
+
+if [ ! -e $GATK ]; then
+  echo
+  echo "ERROR: Need to install GATK"
+  echo
+  exit 1
+fi
+
+if [ -e ./bundle.sh ]; then
+   echo
+   echo "sourcing local bundle"
+   echo
+   source ./bundle.sh
+   cat ./bundle.sh
+else
+  echo
+  echo "ERROR: Need to provide bundle.sh"
+  echo
+  exit 1
+fi
+
+module unload java
+module load java/jdk-17.0.8 
+
+$GATK GenomicsDBImport \
+    -R $GENOME \
+    -L $GENOME_INTERVALS \
+    --genomicsdb-workspace-path pon_db \
+    $(find PoN_v1 -name '*.vcf.gz' | fgrep -v /scatter/ | awk '{print "-V", $1}')
+
+$GATK CreateSomaticPanelOfNormals -R $GENOME -V gendb://pon_db -O pon.vcf.gz
+

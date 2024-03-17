@@ -1,0 +1,26 @@
+Hi Nicholas!
+
+So my colleague needs to verify some steps for WGS pipeline, I will let you know when I have that! So here to start with:
+
+For the genome file and annotation, they used the ensembl assembly (Sscrofa11.1). The most complete version.
+ 
+Link to pig genome page:
+ 
+https://useast.ensembl.org/Sus_scrofa/Info/Index
+ 
+Link to pig genome sequence:
+ 
+https://ftp.ensembl.org/pub/release-110/fasta/sus_scrofa/dna/
+ 
+You want to use this file: Sus_scrofa.Sscrofa11.1.dna.toplevel.fa.gz
+ 
+Link to pig annotation:
+ 
+https://ftp.ensembl.org/pub/release-110/gtf/sus_scrofa/
+ 
+You want to use this file: Sus_scrofa.Sscrofa11.1.110.gtf.gz
+
+Let me know if you have any questions!
+
+Best,
+Andreas

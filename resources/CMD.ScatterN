@@ -1,0 +1,37 @@
+#export GENOME=/juno/depot/assemblies/S.scrofa/Sscrofa11.1/Sscrofa11.1.fasta
+#cat >>bundle.sh
+
+source bundle.sh
+N=100
+picardV2 ScatterIntervalsByNs \
+    R=$GENOME \
+    OT=ACGT N=$N \
+    O=excludeN_${N}.interval_list
+
+cat $GENOME.fai \
+    | egrep -v "AEMK|FPKY" \
+    | awk '{print $1,0,$2}' \
+    | tr ' ' '\t' \
+    >genome_main.bed
+
+cat ${GENOME/.fa*/.dict} >genome_main.interval_list
+cat $GENOME.fai \
+    | egrep -v "AEMK|FPKY" \
+    | awk '{print $1,1,$2,"+","."}' \
+    | tr ' ' '\t' \
+    >>genome_main.interval_list
+
+picardV2 IntervalListTools \
+    I=excludeN_100.interval_list \
+    I=genome_main.interval_list \
+    ACTION=INTERSECT \
+    PADDING=0 \
+    UNIQUE=false \
+    SCATTER_COUNT=1 \
+    INCLUDE_FILTERED=false \
+    BREAK_BANDS_AT_MULTIPLES_OF=0 \
+    SUBDIVISION_MODE=INTERVAL_SUBDIVISION \
+    INVERT=false \
+    O=$(basename ${GENOME/.fa*/})_excludeN_${N}.interval_list
+
+Rscript makeScatterIntervals.R excludeN_100.interval_list

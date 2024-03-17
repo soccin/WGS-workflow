@@ -1,0 +1,49 @@
+#!/bin/bash
+SDIR="$( cd "$( dirname "$0" )" && pwd )"
+GATK=$SDIR/bin/gatk
+
+if [ ! -e $GATK ]; then
+  echo
+  echo "ERROR: Need to install GATK"
+  echo
+  exit 1
+fi
+
+if [ -e ./bundle.sh ]; then
+   echo
+   echo "sourcing local bundle"
+   echo
+   source ./bundle.sh
+   cat ./bundle.sh
+else
+  echo
+  echo "ERROR: Need to provide bundle.sh"
+  echo
+  exit 1
+fi
+
+IBAM=$1
+SAMPLE_ID=$(samtools view -H $IBAM  | fgrep @RG | head -1 | tr '\t' '\n' | fgrep SM: | sed 's/SM://')
+BED=$2
+ODIR=$3
+
+module unload java
+module load java/jdk-17.0.8 
+
+if [ "$HMM_THREADS" == "" ]; then
+   echo
+   echo "Setting HMM_THREADS=1"
+   echo
+   HMM_THREADS=1
+fi
+
+mkdir -p $ODIR
+
+$GATK Mutect2 \
+   --native-pair-hmm-threads $HMM_THREADS \
+   -R $GENOME \
+   -I $IBAM \
+   -L $BED \
+   -tumor $SAMPLE_ID \
+   --max-mnp-distance 0 \
+   -O $ODIR/$(basename ${IBAM/.bam/.vcf.gz})

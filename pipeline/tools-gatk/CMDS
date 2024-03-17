@@ -1,0 +1,1 @@
+ ls ../../cache/bams/md/s_CTCL*/*bam | sort -V | xargs -n 2 | awk '{print $2}' | xargs -n 1 bsub -o LSF/ -J PoN -W 48:00 -n $HMM_THREADS ./gatk.Mutect2_1S
